@@ -17,26 +17,6 @@
 Experienced Next js Full stack developer specializing in scalable AI SaaS solutions. I focus on building high-performance applications and open-source tools powered by advanced AI/ML technologies. With expertise in modern web development, cloud architecture, and DevOps, I deliver reliable, end-to-end software that drives innovation and business growth.
 
 
-
-### 🎯 Professional Focus
-
-```typescript
-const harshitDuggal = {
-    role: "Next.js Developer & AI Engineer",
-    expertise: {
-        frontend: ["Next.js", "React", "TypeScript", "TailwindCSS"],
-        ai_ml: ["TensorFlow", "PyTorch", "Scikit-learn", "LangChain"],
-        devops: ["Docker", "Kubernetes", "CI/CD", "Cloud Architecture"],
-    },
-    currentProjects: [
-        "Building AI-powered SaaS platforms with Next.js",
-        "Developing open-source ML model deployment tools",
-        "Creating scalable microservices architectures"
-    ],
-    interests: ["AI/ML Engineering", "Cloud Computing", "System Design"]
-};
-```
-
 ### 🚀 What I'm Up To
 
 - 🔭 Currently architecting scalable Next.js applications with AI integration
@@ -61,7 +41,7 @@ const harshitDuggal = {
 - Contributing to open-source AI projects
 - Building scalable microservices architectures
 
-[Rest of the previous content remains the same...]
+
 ## 🛠️ Tech Stack
 
 <details open>
