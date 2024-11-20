@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hello, I'm H Duggal👋
+# Hello, I'm Harshit Duggal👋
 ### Full Stack Developer | AI/ML Engineer | DevOps Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
