@@ -1,6 +1,6 @@
 <div align="center">
-
-# Harshit Duggal | Developer & AI Engineer
+#Hello , I'm Harshit duggal🌟
+## Full stack Developer & AI Engineer
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=4000&pause=1000&color=6C47FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Engineer;DevOps+Architect;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
@@ -11,11 +11,14 @@
 
 </div>
 
-## 👨‍💻 About Me
+## 🧑🏼‍💻 About Me ✨
 
-Seasoned Next.js Developer and AI Engineering enthusiast with a passion for building scalable, AI-powered applications. Specializing in crafting high-performance web applications and open-source solutions that leverage cutting-edge AI/ML technologies. My expertise spans across modern web development, cloud architecture, and DevOps practices, allowing me to deliver end-to-end solutions that drive innovation.
+Experienced Next js Full stack developer specializing in scalable AI SaaS solutions. I focus on building high-performance applications and open-source tools powered by advanced AI/ML technologies. With expertise in modern web development, cloud architecture, and DevOps, I deliver reliable, end-to-end software that drives innovation and business growth.
+
+
 
 ### 🎯 Professional Focus
+
 ```typescript
 const harshitDuggal = {
     role: "Next.js Developer & AI Engineer",
