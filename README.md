@@ -11,19 +11,53 @@
 
 </div>
 
-## 👨‍💻 About
+## 👨‍💻 About Me
 
-Innovative Full Stack Developer specializing in AI/ML and cloud-native solutions. Passionate about building scalable applications that merge cutting-edge AI technologies with robust cloud infrastructure. Focused on creating efficient, automated solutions that drive technological advancement.
+Seasoned Next.js Developer and AI Engineering enthusiast with a passion for building scalable, AI-powered applications. Specializing in crafting high-performance web applications and open-source solutions that leverage cutting-edge AI/ML technologies. My expertise spans across modern web development, cloud architecture, and DevOps practices, allowing me to deliver end-to-end solutions that drive innovation.
 
+### 🎯 Professional Focus
 ```typescript
-const harshit = {
-    code: ["TypeScript", "Python", "JavaScript", "Go"],
-    focus: ["AI/ML", "Cloud Architecture", "Microservices"],
-    currentProject: "Building AI-powered microservices with FastAPI & Next.js",
-    challenge: "Implementing MLOps practices in production environments"
+const harshitDuggal = {
+    role: "Next.js Developer & AI Engineer",
+    expertise: {
+        frontend: ["Next.js", "React", "TypeScript", "TailwindCSS"],
+        ai_ml: ["TensorFlow", "PyTorch", "Scikit-learn", "LangChain"],
+        devops: ["Docker", "Kubernetes", "CI/CD", "Cloud Architecture"],
+    },
+    currentProjects: [
+        "Building AI-powered SaaS platforms with Next.js",
+        "Developing open-source ML model deployment tools",
+        "Creating scalable microservices architectures"
+    ],
+    interests: ["AI/ML Engineering", "Cloud Computing", "System Design"]
 };
 ```
 
+### 🚀 What I'm Up To
+
+- 🔭 Currently architecting scalable Next.js applications with AI integration
+- 🌟 Building and maintaining several open-source AI/ML projects
+- 🛠️ Implementing MLOps practices and DevOps automation
+- 📚 Advancing my expertise in Large Language Models and Neural Networks
+- 🤝 Collaborating on innovative AI solutions and cloud-native applications
+
+### 💡 Core Competencies
+
+- **Next.js Development**: Expert in building performant, scalable applications
+- **AI/ML Integration**: Experienced in implementing AI solutions in production
+- **DevOps Practices**: Proficient in containerization, orchestration, and CI/CD
+- **Cloud Architecture**: Skilled in designing robust cloud-native solutions
+- **Open Source**: Active contributor and maintainer of AI/ML projects
+
+### 🎯 Current Focus
+
+- Exploring advanced Next.js 14 features and server components
+- Implementing AI/ML models in production environments
+- Developing automated MLOps pipelines
+- Contributing to open-source AI projects
+- Building scalable microservices architectures
+
+[Rest of the previous content remains the same...]
 ## 🛠️ Tech Stack
 
 <details open>
