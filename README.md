@@ -36,7 +36,7 @@
 
 - 💼 Open for collaboration on innovative projects
 - 🤝 Interested in AI/ML and cloud-native solutions
-- 📧 Reach me at: [your.email@domain.com](harshitduggal29@gmail.com)
+- 📧 Reach me at: [harshitduggal29@gmail.com](harshitduggal29@gmail.com)
 
 <div align="center">
 
