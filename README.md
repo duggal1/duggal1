@@ -10,18 +10,21 @@
 <a href="https://harshitduggal.dev">![Portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=google-chrome&logoColor=white)</a>
 <a href="mailto:harshitduggal29@gmail.com">![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)</a>
 .
-</div>
-🧑🏼‍💻 About Me
-🚀 Full-Stack NEXT.js Developer specializing in AI-Powered, Highly Scalable SaaS Solutions with cutting-edge technologies:
+<div>  
+  🧑🏼‍💻 **About Me**  
+  🚀 **Full-Stack NEXT.js Developer** specializing in **AI-Powered, Highly Scalable SaaS Solutions** with cutting-edge technologies:  
 
-Next.js 15.3
-Node.js
-Bun.js
-Express.js
-Python & R
-Docker & Kubernetes
-RunPod for High-Performance Workloads
-Passionate about building transformative solutions that redefine performance, scalability, and innovation in the SaaS ecosystem.
+  - **Next.js 15.3**  
+  - **Node.js**  
+  - **Bun.js**  
+  - **Express.js**  
+  - **Python & R**  
+  - **Docker & Kubernetes**  
+  - **RunPod for High-Performance Workloads**  
+
+  Passionate about building transformative solutions that redefine performance, scalability, and innovation in the SaaS ecosystem.  
+</div>
+
 
 ## 🛠️ Tech Stack
 
