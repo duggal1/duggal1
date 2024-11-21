@@ -11,7 +11,26 @@
 <a href="mailto:harshitduggal29@gmail.com">![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 </div>
-**[object Object]**
+## 🧑🏼‍💻 About Me  
+**Full Stack Developer** focused on **AI-driven, scalable SaaS solutions** using **Next.js, Python, R, Docker, Kubernetes, and RunPod.**  
+
+### 🚀 What I Do  
+- Develop **scalable AI-powered SaaS platforms**  
+- Architect **Next.js** apps with **AI integration**  
+- Automate workflows with **MLOps & DevOps** tools  
+- Deploy systems with **Docker & Kubernetes**  
+- Advance AI on platforms like **RunPod**  
+
+### 💡 Expertise  
+- **Next.js**: High-performance, production-grade apps  
+- **Python & R**: AI/ML integration & scalable data solutions  
+- **Docker & Kubernetes**: Reliable containerized deployments  
+- **MLOps**: Automated AI/ML pipelines  
+
+### 🎯 Current Focus  
+- Scaling **AI SaaS** with **Python, R, and Kubernetes**  
+- Delivering **high-performance AI platforms**  
+- Driving **open-source AI innovation**  
 ## 🛠️ Tech Stack
 
 <details open>
