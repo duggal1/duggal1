@@ -61,10 +61,10 @@ Passionate about building transformative solutions that redefine performance, sc
 
 ## 🤝 Let’s Connect  
 
-- **🌟Open to collaborating on high-growth startups and transformative projects**  
-- **✅Focused on DevOps, Docker, Kubernetes, PyTorch, Python, AI, and SaaS innovations**  
-- **😊Driven to explore cutting-edge technologies, cloud architectures, and advanced best practices**  
-- **🧑🏼‍💻Actively seeking to network with top professionals and contribute to game-changing ventures**  
+- **🌟Open to collaborating on growing  startups** 
+- **✅Focused on DevOps and machine learning**  
+- **😊 Explore New technologies, cloud architectures, and advanced best practices**  
+- **🧑🏼‍💻Actively seeking to network with professionals and contribute to open-source ventures**  
 
 <div align="center">
 
