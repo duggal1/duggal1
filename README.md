@@ -22,7 +22,7 @@
 
 Passionate about building transformative solutions that redefine performance, scalability, and innovation in the SaaS ecosystem.
 
-## 🛠️ Tech Stack
+##  Tech Stack🌟
 
 ### Frontend & UI
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
@@ -49,7 +49,7 @@ Passionate about building transformative solutions that redefine performance, sc
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel)
 
-## 📈 GitHub Analytics
+##  GitHub Analytics✅
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=duggal1&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
