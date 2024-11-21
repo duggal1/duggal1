@@ -11,37 +11,7 @@
 <a href="mailto:harshitduggal29@gmail.com">![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 </div>
-
-## 🧑🏼‍💻 About Me ✨
-
-Experienced Next js Full stack developer specializing in scalable AI SaaS solutions. I focus on building high-performance applications and open-source tools powered by advanced AI/ML technologies. With expertise in modern web development, cloud architecture, and DevOps, I deliver reliable, end-to-end software that drives innovation and business growth.
-
-
-### 🚀 What I'm Up To
-
-- 🔭 Currently architecting scalable Next.js applications with AI integration
-- 🌟 Building and maintaining several open-source AI/ML projects
-- 🛠️ Implementing MLOps practices and DevOps automation
-- 📚 Advancing my expertise in Large Language Models and Neural Networks
-- 🤝 Collaborating on innovative AI solutions and cloud-native applications
-
-### 💡 Core Competencies
-
-- **Next.js Development**: Expert in building performant, scalable applications
-- **AI/ML Integration**: Experienced in implementing AI solutions in production
-- **DevOps Practices**: Proficient in containerization, orchestration, and CI/CD
-- **Cloud Architecture**: Skilled in designing robust cloud-native solutions
-- **Open Source**: Active contributor and maintainer of AI/ML projects
-
-### 🎯 Current Focus
-
-- Exploring advanced Next.js 14 features and server components
-- Implementing AI/ML models in production environments
-- Developing automated MLOps pipelines
-- Contributing to open-source AI projects
-- Building scalable microservices architectures
-
-
+**[object Object]**
 ## 🛠️ Tech Stack
 
 <details open>
