@@ -52,7 +52,7 @@ Passionate about building transformative solutions that redefine performance, sc
 ##  GitHub Analytics✅
 
 <div align="center">
-  <img width="49%" src="[https://github-readme-stats.vercel.app/api?username=duggal1&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&show_icons=true](https://github-readme-stats.vercel.app/api?username=duggal1&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=true" />
+  <img width="49%" src="[[https://github-readme-stats.vercel.app/api?username=duggal1&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&show_icons=true]
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=duggal1&theme=ambient_gradient&hide_border=true" />
 </div>
 
