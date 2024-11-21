@@ -63,7 +63,7 @@ Passionate about building transformative solutions that redefine performance, sc
 
 - **🌟Open to collaborating on growing  startups** 
 - **✅Focused on DevOps and machine learning**  
-- **😊 Explore New technologies, cloud architectures, and advanced best practices**  
+- **😊 Exploring New technologies**  
 - **🧑🏼‍💻Actively seeking to network with professionals and contribute to open-source ventures**  
 
 <div align="center">
