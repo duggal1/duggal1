@@ -48,17 +48,17 @@ Passionate about building transformative solutions that redefine performance, sc
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel)
-
-##  GitHub Analytics✅
+## GitHub Analytics ✅
 
 <div align="center">
-  <img width="49%" src="[[https://github-readme-stats.vercel.app/api?username=duggal1&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&show_icons=true]
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=duggal1&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=duggal1&theme=ambient_gradient&hide_border=true" />
 </div>
 
 <div align="center">
   <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duggal1&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
+
 
 
 
