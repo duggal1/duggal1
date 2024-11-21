@@ -2,7 +2,8 @@
 
 # Hello , I'm Harshit Duggal 🌟
 
-
+#🧑🏼‍💻 About Me  
+Full Stack Developer** focused on **AI-driven, scalable SaaS solutions** using **Next.js, Python, R, Docker, Kubernetes, and RunPod
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=4000&pause=1000&color=6C47FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Engineer;DevOps+Architect;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 <a href="https://linkedin.com/in/harshitduggal">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)</a>
@@ -11,7 +12,7 @@
 <a href="mailto:harshitduggal29@gmail.com">![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)</a>
 .
 </div>
-## hhaa
+
 ### 🚀 What I Do  
 - Develop **scalable AI-powered SaaS platforms**  
 - Architect **Next.js** apps with **AI integration**  
