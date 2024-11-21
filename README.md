@@ -9,11 +9,9 @@
 <a href="https://twitter.com/harshitduggal">![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)</a>
 <a href="https://harshitduggal.dev">![Portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=google-chrome&logoColor=white)</a>
 <a href="mailto:harshitduggal29@gmail.com">![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)</a>
-
+.
 </div>
-## 🧑🏼‍💻 About Me  
-**Full Stack Developer** focused on **AI-driven, scalable SaaS solutions** using **Next.js, Python, R, Docker, Kubernetes, and RunPod.**  
-
+## hhaa
 ### 🚀 What I Do  
 - Develop **scalable AI-powered SaaS platforms**  
 - Architect **Next.js** apps with **AI integration**  
