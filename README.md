@@ -59,12 +59,12 @@ Passionate about building transformative solutions that redefine performance, sc
   <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duggal1&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
+## 🤝 Let’s Connect  
 
-## 🤝 Let's Connect
-
-- 🔭 Open to collaborating on innovative projects
-- 💡 Interested in AI/ML applications and cloud architecture
-- 🌱 Always exploring new technologies and best practices
+- **🌟Open to collaborating on high-growth startups and transformative projects**  
+- **✅Focused on DevOps, Docker, Kubernetes, PyTorch, Python, AI, and SaaS innovations**  
+- **😊Driven to explore cutting-edge technologies, cloud architectures, and advanced best practices**  
+- **🧑🏼‍💻Actively seeking to network with top professionals and contribute to game-changing ventures**  
 
 <div align="center">
 
