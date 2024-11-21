@@ -56,9 +56,8 @@ Passionate about building transformative solutions that redefine performance, sc
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duggal1&theme=flag-india&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duggal1&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
-
 
 
 ## 🤝 Let's Connect
