@@ -1,6 +1,6 @@
 <div align="center">
 
-# HARSHIT DUGGAL
+# HEY I'M HARSHIT DUGGAL 🌟
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&duration=3500&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Engineer;DevOps+Architect)](https://git.io/typing-svg)
 
