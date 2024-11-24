@@ -86,7 +86,7 @@ Passionate about building transformative solutions that redefine performance, sc
 
 <div align="center">
 
-[![GitHub Activity](https://github-contributor-stats.vercel.app/api?username=duggal1&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)](https://github.com/duggal1)
+
 ![Profile Views](https://visitcount.itsvg.in/api?id=duggal1&icon=6&color=6)
 
 [![GitHub](https://img.shields.io/badge/Available_for_Collaboration-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/duggal1)
