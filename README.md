@@ -14,15 +14,6 @@
 ## 🧑🏼‍💻 About Me
 
 **Full-Stack NEXT.js Developer** specializing in **AI-Powered, Highly Scalable SaaS Solutions** with cutting-edge technologies:
-
-- **Next.js 15.3**
-- **Node.js**
-- **Bun.js**
-- **Express.js**
-- **Python & R**
-- **Docker & Kubernetes**
-- **RunPod for High-Performance Workloads**
-
 Passionate about building transformative solutions that redefine performance, scalability, and innovation in the SaaS ecosystem.
 
 ##  Tech Stack🌟
