@@ -82,7 +82,6 @@ Passionate about building transformative solutions that redefine performance, sc
 
 [![GitHub](https://img.shields.io/badge/Available_for_Collaboration-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/duggal1)
 
-*Crafting digital experiences that define the future*
 
 </div>
 
