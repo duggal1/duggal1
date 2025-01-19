@@ -25,16 +25,30 @@ Reliable, thoroughly-tested solutions that simply work
 
 ### 📈 Growth
 Built to scale with your business, from day one to million users
-
 ## Recent Projects
 
 <div align="center">
-|[Payment Flow](https://stripe-kit-zeta.vercel.app) | [Smart Search](https://lighting-search.vercel.app) | [Data Automation](https://simplifyai-ten.vercel.app)|
-|:-:|:-:|:-:|
-|Simple, secure payments|Find anything instantly|Automate data collection|
-</div>
+
+### 🚀 Featured Work
+
+#### [Payment Flow](https://stripe-kit-zeta.vercel.app)
+**A simple, secure payment integration**  
+Effortless transactions with a sleek, user-friendly experience.
+
+---
+
+#### [Smart Search](https://lighting-search.vercel.app)  
+**Find anything instantly**  
+Advanced search functionality for blazing-fast results.
+
+---
+
+#### [Data Automation](https://simplifyai-ten.vercel.app)  
+**Automate data collection**  
+Save time with intelligent automation tailored to your needs.
 
 </div>
+
 
 <br>
 
