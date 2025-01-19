@@ -1,36 +1,46 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=slice&color=000&height=200&section=header&text=Harshit%20Duggal&fontSize=50&fontColor=ffffff&animation=fadeIn&rotate=10)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Harshit%20Duggal&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Web%20Developer&descSize=20&descAlignY=55)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://harshitduggal.dev)
-[![Available](https://img.shields.io/badge/Available_for_Work-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+<br>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000?style=for-the-badge&logo=vercel&logoColor=white)](https://harshitduggal.dev)
+&nbsp;&nbsp;
+[![Available](https://img.shields.io/badge/AVAILABLE_NOW-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+---
+
+### `Building tomorrow's web, today.`
 
 </div>
 
-## I build what you need.
-
-### Recent Work
+<br>
 
 <div align="center">
 
-|[Payment Flow](https://stripe-kit-zeta.vercel.app) | [Smart Search](https://lighting-search.vercel.app) | [Data Automation](https://simplifyai-ten.vercel.app)|
+|[<img src="/api/placeholder/400/200" width="250px" height="120px">](https://stripe-kit-zeta.vercel.app)|[<img src="/api/placeholder/400/200" width="250px" height="120px">](https://lighting-search.vercel.app)|[<img src="/api/placeholder/400/200" width="250px" height="120px">](https://simplifyai-ten.vercel.app)|
 |:-:|:-:|:-:|
-|Simple, secure payments|Find anything instantly|Automate data collection|
+|**Seamless Payments**|**Intelligent Search**|**Data Automation**|
+|*Frictionless checkout flow*|*Find anything, instantly*|*Web data, simplified*|
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
-### Let's talk about your project.
+![Separators](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&reversal=true)
 
-[![Contact](https://img.shields.io/badge/Start_a_Conversation-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+<br>
 
-<br/>
+[![Start Project](https://img.shields.io/badge/START_A_PROJECT-000?style=for-the-badge&labelColor=black&color=6366F1&logoColor=white)](mailto:your@email.com)
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=duggal1&bg_color=000000&color=ffffff&line=6366F1&point=ffffff&area=true&hide_border=true)
+<br>
 
-![Footer](https://capsule-render.vercel.app/api?type=slice&color=000&height=100&section=footer&rotate=10)
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=duggal1&bg_color=00000000&color=6366F1&line=6366F1&point=ffffff&area=true&hide_border=true&area_color=6366F122)
+
+<br>
+
+![Footer](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&reversal=true&descSize=20&descAlignY=50)
 
 </div>
