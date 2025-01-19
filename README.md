@@ -1,59 +1,82 @@
 <div align="center">
 
-# Harshit Duggal
+# `{ harshit.duggal }`
 
-Software developer specializing in web applications and AI integration.
+<br/>
 
-[Portfolio](https://harshitduggal.dev) • 
-[LinkedIn](https://linkedin.com/in/harshitduggal) • 
-[Twitter](https://twitter.com/harshitduggal)
+[![Portfolio](https://img.shields.io/badge/-harshitduggal.dev-000?style=for-the-badge&logo=vercel&logoColor=white)](https://harshitduggal.dev)
+[![LinkedIn](https://img.shields.io/badge/-Connect-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitduggal)
+[![Twitter](https://img.shields.io/badge/-Follow-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/harshitduggal)
+
+<br/>
 
 </div>
 
-## What I Do
+```typescript
+interface Developer {
+  name: string;
+  role: string;
+  location: string;
+  available: boolean;
+}
 
-I build fast, reliable web applications with a focus on:
-- Creating efficient user interfaces that work well on all devices
-- Setting up reliable server systems that can handle many users
-- Adding AI features that solve real business problems
-- Making sure applications can grow as your business grows
+const harshit: Developer = {
+  name: "Harshit Duggal",
+  role: "Next.js Developer",
+  location: "Your Location",
+  available: true,
+};
+```
 
-## My Tools
+## `⚡ expertise`
 
-**Web Development**
-- Next.js & React for building websites
-- TypeScript for reliable code
-- Tailwind CSS for clean designs
-- Three.js for 3D graphics
+I build modern web applications with Next.js that focus on:
+- Lightning-fast page loads
+- Beautiful, responsive interfaces
+- Clean, maintainable codebases
+- Scalable architecture
 
-**Backend Systems**
-- FastAPI & NestJS for server code
-- GraphQL for flexible data handling
-- Prisma for database management
+## `🎯 recent focus`
 
-**AI Integration**
-- PyTorch & TensorFlow for machine learning
-- OpenCV for computer vision
-- Custom AI solutions for specific business needs
+```javascript
+const currentWork = {
+  framework: "Next.js 14",
+  styling: "Tailwind CSS",
+  stack: "Full Stack",
+  specialty: "Performance Optimization"
+}
+```
 
-**Infrastructure**
-- Docker & Kubernetes for reliable deployment
-- Google Cloud & Vercel for hosting
-- Automated testing and deployment systems
-
-## Let's Work Together
-
-I'm currently available for:
-- Building new web applications
-- Adding AI features to existing systems
-- Improving application performance
-- Setting up reliable cloud infrastructure
-
-**Contact me at:** [Your preferred contact method]
+## `🌟 featured projects`
 
 <div align="center">
 
-[Available for New Projects](https://github.com/duggal1)
+| Project | Description | Stack |
+|---------|------------|-------|
+| [Project Name](link) | Modern e-commerce platform | `Next.js` `Typescript` |
+| [Project Name](link) | Real-time dashboard | `Next.js` `Tailwind` |
+
+</div>
+
+## `💼 let's build something`
+
+```typescript
+const availability = {
+  status: "Open to Work",
+  interests: [
+    "Next.js Applications",
+    "E-commerce Platforms",
+    "Custom Dashboards",
+    "Performance Optimization"
+  ]
+}
+```
+
+<div align="center">
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/-Available_for_Projects-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/duggal1)
 
 ![Profile Views](https://visitcount.itsvg.in/api?id=duggal1&icon=6&color=6)
 
