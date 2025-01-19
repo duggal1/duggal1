@@ -29,15 +29,10 @@ Built to scale with your business, from day one to million users
 ## Recent Projects
 
 <div align="center">
-
-| Project | Impact |
-|---------|---------|
-| **E-commerce Platform** | 2x faster loading • 40% higher conversion |
-| **Business Dashboard** | 85% faster data access • Real-time updates |
-| **Company Website** | 50% more leads • Perfect mobile experience |
-
+|[Payment Flow](https://stripe-kit-zeta.vercel.app) | [Smart Search](https://lighting-search.vercel.app) | [Data Automation](https://simplifyai-ten.vercel.app)|
+|:-:|:-:|:-:|
+|Simple, secure payments|Find anything instantly|Automate data collection|
 </div>
-
 
 </div>
 
