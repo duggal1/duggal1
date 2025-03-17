@@ -31,7 +31,7 @@
 ### Development Stack
 
 - **Languages**: TypeScript, Rust, Go, Python
-- **Frontend**: Next.js, React, Tailwind CSS, Framer Motion
+- **Frontend**: Next.js 15.2, React 19, Tailwind CSS, Framer Motion
 - **Backend**: Node.js, Deno, Bun, tRPC, GraphQL
 - **Databases**: PostgreSQL, MongoDB, Redis
 - **Infrastructure**: Docker, Kubernetes, AWS, Vercel, Supabase
