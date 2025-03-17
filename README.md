@@ -47,7 +47,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=duggal1&theme=tokyonight&hide_border=false&border_radius=10)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=duggal1&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact&border_radius=10)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=duggal1&bg_color=00000000&color=6366F1&line=6366F1&point=ffffff&area=true&hide_border=true&area_color=6366F122)
-
 </div>
 
 ---
