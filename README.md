@@ -35,7 +35,7 @@
 - **Backend**: Node.js, Deno, Bun, tRPC, GraphQL
 - **Databases**: PostgreSQL, MongoDB, Redis
 - **Infrastructure**: Docker, Kubernetes, AWS, Vercel, Supabase
-- **AI/ML**: OpenAI API, LangChain, TensorFlow, PyTorch
+- **AI/ML**: OpenAI API, LangChain, TensorFlow, PyTorch, MLOps , Agnetic AI
 
 ---
 
