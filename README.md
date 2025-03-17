@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=200&section=header&text=Harshit%20Duggal&fontSize=50&fontColor=FFFFFF&animation=fadeIn" alt="Header Image">
-
-  # Harshit Duggal
+  # Hey I'm Harshit Duggal 👋🏻
 
   **Building AI & Automation Solutions**
 
