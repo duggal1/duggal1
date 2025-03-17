@@ -1,7 +1,14 @@
 <div align="center">
   
-![Header Image](https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&section=header&text=Harshit%20Duggal&fontSize=50&fontColor=ffffff&animation=fadeIn)
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=6366F1&height=200&section=header&text=Harshit%20Duggal&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Header Image">
 
+  # Modern Web Solutions for Growing Businesses
+
+  [View My Work](https://harshitduggal.dev) • 
+  [Connect on LinkedIn](https://linkedin.com/in/harshitduggal) • 
+  [Follow Updates](https://twitter.com/harshitduggal)
+
+</div>
 # Modern Web Solutions for Growing Businesses
 
 [View My Work](https://harshitduggal.dev) • 
