@@ -31,6 +31,14 @@ Automate your invoicing workflow with intelligent, open-source software that han
 A clean, efficient job board solution that connects the right talent with the right opportunities.
 
 ---
+#### [Payment Flow](https://stripe-kit-zeta.vercel.app)
+A simple, secure payment integration  
+Effortless transactions with a sleek, user-friendly experience.
+---
+#### [Smart Search](https://lighting-search.vercel.app)  
+Find anything instantly  
+Advanced search functionality for blazing-fast results.
+---
 </div>
 
 ## Why Work With Me?
