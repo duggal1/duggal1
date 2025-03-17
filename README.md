@@ -1,6 +1,7 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=6366F1&height=200&section=header&text=Harshit%20Duggal&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Header Image">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=200&section=header&text=Harshit%20Duggal&fontSize=50&fontColor=58A6FF&animation=fadeIn" alt="Header Image">
+
 
   # Modern Web Solutions for Growing Businesses
 
