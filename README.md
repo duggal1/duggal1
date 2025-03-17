@@ -26,7 +26,7 @@
 
 ---
 
-## 🛠 Skills
+## ⚡️ Skills
 
 ### Development Stack
 
@@ -55,7 +55,7 @@
 
 ---
 
-## 📩 Contact
+## ✨ Contact
 
 <div align="center">
 
