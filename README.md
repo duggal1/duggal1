@@ -1,5 +1,5 @@
 <div align="center">
-  # Hey I'm Harshit Duggal 👋🏻
+  #Hey I'm Harshit Duggal 👋🏻
 
   **Building AI & Automation Solutions**
 
