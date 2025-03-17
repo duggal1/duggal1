@@ -59,10 +59,11 @@
 
 <div align="center">
 
-💼 **Email:** [harshitduggal29@gmail.com](mailto:harshitduggal29@gmail.com)  
-🔗 **LinkedIn:** [Connect](https://linkedin.com/in/harshitduggal)  
-🌐 **Portfolio:** [Visit](https://harshitduggal.dev)  
-🐦 **Twitter:** [Follow](https://twitter.com/harshitduggal)  
+ **Email:** [harshitduggal29@gmail.com](mailto:harshitduggal29@gmail.com)  
+ **Twitter:** [Follow](https://twitter.com/harshitduggal5)  
+ **LinkedIn:** [Connect](https://linkedin.com/in/harshitduggal)  
+ **Portfolio:** [Visit](https://harshitduggal.dev)  
+
 
 <a href="mailto:harshitduggal29@gmail.com">
   <img src="https://img.shields.io/badge/Start_a_Project-000?style=for-the-badge&labelColor=0D1117&color=58A6FF&logoColor=white&border_radius=10" alt="Start a Project">
