@@ -21,7 +21,7 @@
 | **SynthicAI**   | AI-powered customer support agent reducing churn & boosting engagement. | [SynthicAI](https://synthicai.com)         |
 |**Axion**        | Advanced Agentic Sales Agent for Businesses and Enterprises                                                      |[Axion](https://axionai.vercel.app/)  |
 | **LinkZap**     | Fast, reliable link shortening for teams.             | [LinkZap](https://linkzap.vercel.app)     |   
-| **SynthicAI**   | AI-powered customer support agent reducing churn & boosting engagement. | [SynthicAI](https://synthicai.com)         |
+
 | **SynexAI**     | Open-source AI invoice automation, seamless financial workflows. | [SynexAI](https://synexai.in)             |
 | **HireBit**     | AI-driven job board for fast, smart hiring.          | [Hirebit](https://hirebit.site)           |
 | **Payment Flow**| Secure, sleek payment processing system.             | [stripe-kit](https://stripe-kit-zeta.vercel.app) |
