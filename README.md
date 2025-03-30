@@ -14,23 +14,21 @@
 
 
 
-<div align="center">
+Here’s the corrected MDX code with proper formatting:
+
+
 
 | Project         | Description                                           | Live Demo                                  |
 |-----------------|-------------------------------------------------------|--------------------------------------------|
 | **SynthicAI**   | AI-powered customer support agent reducing churn & boosting engagement. | [SynthicAI](https://synthicai.com)         |
-|**Axion**        | Advanced Agentic Sales Agent for Businesses and Enterprises                                                      |[Axion](https://axionai.vercel.app/)  |
-| **LinkZap**     | Fast, reliable link shortening for teams.             | [LinkZap](https://linkzap.vercel.app)   |
-
+| **Axion**       | Advanced Agentic Sales Agent for Businesses and Enterprises | [Axion](https://axionai.vercel.app/)      |
+| **LinkZap**     | Fast, reliable link shortening for teams.             | [LinkZap](https://linkzap.vercel.app)     |
 | **SynexAI**     | Open-source AI invoice automation, seamless financial workflows. | [SynexAI](https://synexai.in)             |
 | **HireBit**     | AI-driven job board for fast, smart hiring.          | [Hirebit](https://hirebit.site)           |
-| **Payment Flow**| Secure, sleek payment processing system.             | [stripe-kit](https://stripe-kit-zeta.vercel.app) |
-| **Smart Search**| Ultra-fast AI search for instant results.            | [smart search](https://lighting-search.vercel.app) |
+| **Payment Flow**| Secure, sleek payment processing system.              | [Stripe Kit](https://stripe-kit-zeta.vercel.app) |
+| **Smart Search**| Ultra-fast AI search for instant results.            | [Smart Search](https://lighting-search.vercel.app) |
 
 
-
-
-</div>
 
 ---
 
