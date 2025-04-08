@@ -14,25 +14,16 @@
 
 
 
-Here’s the corrected MDX code with proper formatting:
-
-
-
 | Project         | Description                                           | Live Demo                                  |
 |-----------------|-------------------------------------------------------|--------------------------------------------|
 | **SynthicAI**   | AI-powered customer support agent reducing churn & boosting engagement. | [SynthicAI](https://synthicai.com)         |
-| **Deep Research Engine*       | An agent that uses reasoning to synthesize large amounts of online information and complete multi-step research tasks for you | [Blaze](https://blaze-labs.vercel.app/)      |
-
+| **Deep Research Engine** | An agent that uses reasoning to synthesize large amounts of online information and complete multi-step research tasks for you | [Blaze](https://blaze-labs.vercel.app/)      |
 | **Axion**       | Advanced Agentic Sales Agent for Businesses and Enterprises | [Axion](https://axionai.vercel.app/)      |
 | **LinkZap**     | Fast, reliable link shortening for teams.             | [LinkZap](https://linkzap.vercel.app)     |
 | **SynexAI**     | Open-source AI invoice automation, seamless financial workflows. | [SynexAI](https://synexai.in)             |
 | **HireBit**     | AI-driven job board for fast, smart hiring.          | [Hirebit](https://hirebit.site)           |
 | **Payment Flow**| Secure, sleek payment processing system.              | [Stripe Kit](https://stripe-kit-zeta.vercel.app) |
 
-
-
-
----
 
 ## ⚡️ Skills
 
