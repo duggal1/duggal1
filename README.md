@@ -10,8 +10,6 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitduggal)
 [![Twitter](https://img.shields.io/badge/TWITTER-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/harshitduggal)
 
-> "The best AI doesn't replace humans - it amplifies what makes us uniquely human: creativity, intuition, and connection."
-
 </div>
 
 ---
