@@ -10,6 +10,8 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitduggal)
 [![Twitter](https://img.shields.io/badge/TWITTER-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/harshitduggal)
 
+> "The best AI doesn't replace humans - it amplifies what makes us uniquely human: creativity, intuition, and connection."
+
 </div>
 
 ---
@@ -147,9 +149,13 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=duggal1&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
 
-### RANDOM DEV QUOTE
+### MY PHILOSOPHY
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+<div align="center">
+
+> "Building AI isn't about replacing human intelligence, but extending it. The future belongs to those who can orchestrate the symphony between human creativity and machine precision."
+
+</div>
 
 ---
 
@@ -166,7 +172,7 @@
   <img src="https://img.shields.io/badge/START_A_PROJECT-%23000000.svg?style=for-the-badge&labelColor=black&color=58A6FF" alt="Start a Project" width="300"/>
 </a>
 
-[![](https://visitcount.itsvg.in/api?id=duggal1&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=duggal1&style=flat-square&color=blueviolet)
 
 </div>
 
