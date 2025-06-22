@@ -47,7 +47,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### **Frontend**
-![Next.js](https://img.shields.io/badge/Next.js_15.2-000000?style=flat-square&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_15.4-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
@@ -79,13 +79,15 @@
 ## 📊 **PERFORMANCE METRICS**
 
 <div align="center">
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=duggal1&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=duggal1&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=duggal1&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://github-readme-stats.vercel.app/api?username=duggal1&show_icons=true&theme=synthwave&hide_border=true&bg_color=0a0a0a&title_color=00F5FF&icon_color=FF00FF&text_color=FFFFFF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=duggal1&theme=synthwave&hide_border=true&background=0a0a0a&stroke=00F5FF&ring=FF00FF&fire=00F5FF&currStreakLabel=FFFFFF" width="48%" />
+---
+[![](https://visitcount.itsvg.in/api?id=duggal1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duggal1&layout=compact&theme=synthwave&hide_border=true&bg_color=0a0a0a&title_color=00F5FF&text_color=FFFFFF" width="48%" />
 
-</div>
 
 ---
 
