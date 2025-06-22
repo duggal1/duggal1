@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝   ╚═╝       ╚═════╝  ╚═════╝  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝
 ```
 
-**AI ENGINEER • FULL-STACK DEV • VISIONARY **
+**AI ENGINEER • FULL-STACK DEV • VISIONARY**
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-00F5FF?style=for-the-badge&logo=vercel&logoColor=black)](https://harshitduggal.dev)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-FF00FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitduggal)
