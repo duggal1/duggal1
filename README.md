@@ -20,7 +20,7 @@
 ---
 
 ## 🚀 **PRODUCTION SYSTEMS**
-# 🚀 Production Systems
+
 
 <table>
   <thead>
@@ -79,7 +79,7 @@
     <tr>
       <td><a href="https://synthic.vercel.app/" target="_blank">Synthic (Landing)</a></td>
       <td>Archived landing page.</td>
-      <td align="center">⚫ ARCHIVED</td>
+      <td align="center">🔵 ARCHIVED</td>
     </tr>
   </tbody>
 </table>
