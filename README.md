@@ -20,19 +20,70 @@
 ---
 
 ## 🚀 **PRODUCTION SYSTEMS**
+# 🚀 Production Systems
 
-<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="left">Description</th>
+      <th align="center">Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://synthicai.com" target="_blank">SynthicAI</a></td>
+      <td>Premium AI voice agents for customer support.</td>
+      <td align="center">🟢 LIVE</td>
+    </tr>
+    <tr>
+      <td><a href="https://blaze-labs.vercel.app" target="_blank">Deep Research</a></td>
+      <td>A deep research engine for advanced reasoning.</td>
+      <td align="center">🟢 LIVE</td>
+    </tr>
+    <tr>
+      <td><a href="https://axionai.vercel.app" target="_blank">Axion</a></td>
+      <td>Beautifully crafted open-source landing page.</td>
+      <td align="center">🟢 LIVE</td>
+    </tr>
+    <tr>
+      <td><a href="https://linkzap.vercel.app" target="_blank">LinkZap</a></td>
+      <td>Open-source link shortener platform/tool.</td>
+      <td align="center">🟢 LIVE</td>
+    </tr>
+    <tr>
+      <td><a href="https://synexai.in" target="_blank">SynexAI</a></td>
+      <td>Invoice builder & automation SaaS.</td>
+      <td align="center">🟢 LIVE</td>
+    </tr>
+    <tr>
+      <td><a href="https://nuro-dna.vercel.app/" target="_blank">Nuro</a></td>
+      <td>AI-powered biotech DNA product.</td>
+      <td align="center">🟢 LIVE</td>
+    </tr>
+    <tr>
+      <td><a href="https://creed-ai.vercel.app/" target="_blank">CreedAI</a></td>
+      <td>AI-powered podcast generation platform.</td>
+      <td align="center">🟢 LIVE</td>
+    </tr>
+    <tr>
+      <td><a href="https://elaraai.vercel.app/" target="_blank">ElaraAI</a></td>
+      <td>AI-powered LMS tutor platform.</td>
+      <td align="center">🟠 BETA</td>
+    </tr>
+    <tr>
+      <td><a href="https://super-clawler-web.vercel.app/" target="_blank">Super Crawler</a></td>
+      <td>Self-built Rust-based fastest web crawler.</td>
+      <td align="center">🟢 LIVE</td>
+    </tr>
+    <tr>
+      <td><a href="https://synthic.vercel.app/" target="_blank">Synthic (Landing)</a></td>
+      <td>Archived landing page.</td>
+      <td align="center">⚫ ARCHIVED</td>
+    </tr>
+  </tbody>
+</table>
 
-| **PROJECT** | **TECH STACK** | **STATUS** |
-|:---:|:---:|:---:|
-| **[SynthicAI](https://synthicai.com)** | `AI • React • Next.js` | `🟢 LIVE` |
-| **[Deep Research](https://blaze-labs.vercel.app)** | `AI Reasoning • TypeScript` | `🟢 LIVE` |
-| **[Axion](https://axionai.vercel.app)** | `Enterprise AI • Node.js` | `🟢 LIVE` |
-| **[LinkZap](https://linkzap.vercel.app)** | `Firebase • React` | `🟢 LIVE` |
-| **[SynexAI](https://synexai.in)** | `Open Source • Python` | `🟢 LIVE` |
-| **[HireBit](https://hirebit.site)** | `AI Platform • PostgreSQL` | `🟢 LIVE` |
-
-</div>
 
 ---
 
