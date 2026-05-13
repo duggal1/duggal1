@@ -140,7 +140,7 @@ Stripe, Paddle, HubSpot, Salesforce, Shopify, Zendesk, Slack, Google Workspace
 
 ## Contact
 
-For serious work only, please.
+For work only, please.
 
 [hduggal@darkfunnel.pro](mailto:hduggal@darkfunnel.pro)
 
