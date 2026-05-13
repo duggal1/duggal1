@@ -36,9 +36,17 @@ I build production-ready software end to end: product, interface, architecture, 
 
 In August 2025, I shipped SynthicAI, a voice AI agent for customer support.
 
-It reached 500+ waitlist users through Reddit, X, LinkedIn, and cold email. It still failed because I built into a crowded market, framed the problem too broadly, skipped enough buyer conversations, and underestimated the AI infrastructure cost before I had product funding.
+It reached 500+ waitlist users through Reddit, X, LinkedIn, and cold email.
 
-That changed how I build. I start with the buyer, the niche, the painful job, and the payment test before committing the product shape. A product can be ambitious. The entry point cannot be vague.
+It failed because:
+
+* the market was already crowded
+* the problem was too broad
+* I did not talk to enough buyers before building
+* AI infrastructure cost became real before funding did
+
+That changed how I build now: buyer first, narrow problem, clear payment signal, then product.
+
 
 ---
 
