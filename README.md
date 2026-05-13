@@ -126,16 +126,15 @@ LLMs, RAG, prompt systems, agents, vector search, evals
 Stripe, Paddle, HubSpot, Salesforce, Shopify, Zendesk, Slack, Google Workspace
 
 ---
-
 ## AI work
 
-- LLM applications that need structured outputs, not loose chat
-- RAG over product, support, CRM, and operational data
-- Agent flows with clear ownership, fallbacks, and handoff rules
-- Vector search for retrieval, matching, ranking, and memory
-- Prompt systems with test cases and failure checks
-- Model routing when cost, latency, or quality matters
-- LLM evaluation before outputs reach users
+- Context systems over messy business data
+- Retrieval that finds, ranks, and grounds answers
+- Tool workflows with state, retries, and handoffs
+- Structured outputs that systems can actually use
+- Human review for risky or unclear decisions
+- Evals built from real failures
+- Tracing for cost, latency, and output quality
 
 ---
 
