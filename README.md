@@ -6,7 +6,7 @@
 
 ### AI Product Engineer
 
-I build production-ready software end to end:  
+I build production-ready software end to end
 product judgment, design, architecture, data systems, AI implementation, and complex integrations.
 
 <p>
