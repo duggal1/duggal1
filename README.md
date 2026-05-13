@@ -48,6 +48,7 @@ It failed because
 - AI infra cost became real before funding did
 
 It changed how I build. I stopped chasing broad markets and started looking for narrow, expensive problems with buyers already paying for broken solutions.
+
 ---
 
 ## Products / Projects
