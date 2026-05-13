@@ -6,7 +6,7 @@
 
 ### Founding Engineer
 
-I build production software where the hard parts are fragmented data, boring integrations, and product judgment.
+I build production software products wherethe problem is not just code, but product complexity, broken workflows, messy integrations, and poor design.
 
 <p>
   <a href="https://duggal.darkfunnel.pro" aria-label="Portfolio">
