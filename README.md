@@ -16,6 +16,7 @@ I build production-ready software end to end: product, interface, architecture, 
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/harshitduggal5" aria-label="X">
     <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" height="24" align="center" />
+     <strong>X/Twitter</strong>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:hduggal@darkfunnel.pro" aria-label="Email">
