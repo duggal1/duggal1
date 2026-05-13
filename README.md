@@ -1,140 +1,131 @@
 <div align="center">
 
+<img src=".github/assets/harshit-duggal.svg" alt="Harshit Duggal" height="72" />
+
 # Harshit Duggal
 
-### Software is cheap. Judgment is not.
+Full-stack engineer building real products, not tutorial repos.
 
-I build AI-first software from real business pain with product judgment, design taste, architecture, ownership, and production execution.
-
-[Portfolio](https://duggal.darkfunnel.pro) · [X](https://x.com/harshitduggal5) · [Email](mailto:hduggal@darkfunnel.pro)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://duggal.darkfunnel.pro)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/harshitduggal5)
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hduggal@darkfunnel.pro)
 
 </div>
 
 ---
 
-## Work
-
-I build products where the hard part is not just writing code.
-
-Most software dies before code matters: unclear pain, weak positioning, bloated scope, broken handoffs, fragile architecture, and no ownership after launch.
-
-My work sits at the intersection of product judgment, UX taste, systems design, AI workflows, and end-to-end shipping.
-
----
-
 ## Products / Projects
 
-Most of these are closed-source products. A few are open-source or partially public. The goal is to show shipped product judgment, not just code repositories.
+Most are closed-source products. A few are public or partially public. The point is shipped product work, not repository count.
 
-### [Dark Funnel](https://darkfunnel.pro)
-
-Revenue leakage and funnel recovery software for sales-led B2B teams.
-
-Dark Funnel connects calendar, CRM, and inbox evidence to prove which demo-sourced revenue is real, exposed, recoverable, or unresolved before leadership review.
-
-### [Sapphire](https://trysapphire.today)
-
-AI revenue infrastructure for booking-driven healthcare groups.
-
-Sapphire links patient inquiries, bookings, visits, payments, follow-up gaps, and recovery actions into one lifecycle record so operators can see where revenue is lost and what can still be recovered.
-
-### [Bixbite](https://bixbite.fun)
-
-AI visibility and shortlist monitoring for payroll software companies.
-
-Bixbite tracks how ChatGPT, Claude, Gemini, and Perplexity position payroll platforms inside high-intent buying queries, showing where competitors replace a company in AI-generated recommendations.
-
-### [Opal Tool](https://tool.opalhq.fun)
-
-Business tooling for refund governance and capital exposure.
-
-Opal models unauthorized refund execution, policy deviation risk, approval gaps, and recoverable capital exposure for modern commerce operations.
-
-### [Synthic AI](https://synthic-ai.vercel.app)
-
-AI voice agent for customer support.
-
-Synthic AI answers missed calls, handles customer questions, remembers context, connects with existing support and CRM tools, and helps businesses avoid losing customers to slow response times.
-
-### [Santa](https://christmasai.wersal.app)
-
-Christmas AI product.
-
-Santa is a seasonal AI product built around quiet holiday tools: warming a room, finding thoughtful gifts, creating emotional Christmas cards, and making Christmas planning feel lighter.
-
----
-
-## Working Principles
-
-### Pain before product
-
-I start with the business pain before touching product, design, architecture, or code.
-
-### Taste before complexity
-
-Small teams cannot afford vague UX, bloated features, or systems that collapse when real users touch them.
-
-### Ownership before handoff
-
-I care about the full path: unclear problem, product shape, interface, backend, data model, AI layer, launch, and iteration.
-
-### Proof before claims
-
-AI products need evidence. Outputs should be traceable, confidence-aware, and grounded in source data where possible.
+<table>
+  <tr>
+    <td width="52">
+      <img src=".github/assets/dark-funnel.svg" alt="Dark Funnel" width="36" />
+    </td>
+    <td>
+      <strong><a href="https://darkfunnel.pro">Dark Funnel</a></strong><br />
+      Demo no-show recovery and pipeline verification for sales teams.
+    </td>
+  </tr>
+  <tr>
+    <td width="52">
+      <img src=".github/assets/sapphire.svg" alt="Sapphire" width="36" />
+    </td>
+    <td>
+      <strong><a href="https://trysapphire.today">Sapphire</a></strong><br />
+      Patient inquiry, booking, visit, payment, and recovery tracking for healthcare operators.
+    </td>
+  </tr>
+  <tr>
+    <td width="52">
+      <img src=".github/assets/bixbite.svg" alt="Bixbite" width="36" />
+    </td>
+    <td>
+      <strong><a href="https://bixbite.fun">Bixbite</a></strong><br />
+      Tracks how AI search tools rank and recommend payroll software companies.
+    </td>
+  </tr>
+  <tr>
+    <td width="52">
+      <img src=".github/assets/opal.svg" alt="Opal Tool" width="36" />
+    </td>
+    <td>
+      <strong><a href="https://tool.opalhq.fun">Opal Tool</a></strong><br />
+      Refund policy, approval, and risk calculator for commerce teams.
+    </td>
+  </tr>
+  <tr>
+    <td width="52">
+      <img src=".github/assets/synthic-ai.svg" alt="Synthic AI" width="36" />
+    </td>
+    <td>
+      <strong><a href="https://synthic-ai.vercel.app">Synthic AI</a></strong><br />
+      AI voice support agent for missed calls, customer questions, and support workflows.
+    </td>
+  </tr>
+  <tr>
+    <td width="52">
+      <img src=".github/assets/santa.svg" alt="Santa" width="36" />
+    </td>
+    <td>
+      <strong><a href="https://christmasai.wersal.app">Santa</a></strong><br />
+      Christmas AI tools for gifts, cards, rooms, and holiday planning.
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## What I Build
 
-- AI-first SaaS products
-- Revenue intelligence systems
-- Workflow automation tools
-- Internal operating systems
-- Vertical AI products
-- MVPs with real product logic
-- Dashboards, queues, reports, and recovery systems
-- Full-stack products from idea to production
+Full-stack products from rough idea to production.
+
+- Product flows
+- Landing pages
+- Dashboards
+- Internal tools
+- AI workflows
+- Data-backed reports
+- CRM and payment integrations
+- Booking, recovery, and operations systems
 
 ---
 
 ## Stack
 
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,bun,postgres,prisma,vercel,aws,gcp" alt="Tech stack" />
+</p>
+
 **Frontend**  
-Next.js · React · TypeScript · Tailwind CSS · Zustand · TanStack Query
+Next.js, React, TypeScript, Tailwind CSS, Zustand, TanStack Query
 
 **Backend**  
-Bun · Elysia · Next.js Server Actions · Inngest · REST APIs · Webhooks
+Bun, Elysia, Next.js Server Actions, Inngest, REST APIs, webhooks
 
 **Data**  
-PostgreSQL · Neon · Drizzle ORM · Prisma · Qdrant · Vector search
+PostgreSQL, Neon, Drizzle ORM, Prisma, Qdrant
 
 **AI**  
-LLMs · RAG · Prompt engineering · Agentic workflows · Model orchestration · LLM evaluation
+LLMs, RAG, prompt systems, agents, vector search, evals
 
 **Integrations**  
-Stripe · Paddle · HubSpot · Salesforce · Shopify · Zendesk · Slack · Google Workspace
-
-**Infrastructure**  
-Vercel · AWS S3 · GCP · Edge deployment · Background jobs
+Stripe, Paddle, HubSpot, Salesforce, Shopify, Zendesk, Slack, Google Workspace
 
 ---
 
 ## Contact
 
-For serious product, engineering, or early-stage work:
+For serious work only, please.
 
-[hduggal@darkfunnel.pro](mailto:hduggal@darkfunnel.pro)
-
-Secondary email:
-
-[duggal@trysapphire.today](mailto:duggal@trysapphire.today)
-
-Please keep outreach specific. Clear context makes it easier to respond properly.
+**Primary:** [hduggal@darkfunnel.pro](mailto:hduggal@darkfunnel.pro)  
+**Secondary:** [duggal@trysapphire.today](mailto:duggal@trysapphire.today)
 
 ---
 
 <div align="center">
 
-Built around judgment, taste, ownership, and shipped work.
+[Portfolio](https://duggal.darkfunnel.pro) · [X](https://x.com/harshitduggal5) · [GitHub](https://github.com/harshitduggal5)
 
 </div>
