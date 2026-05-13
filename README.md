@@ -126,17 +126,17 @@ LLMs, RAG, prompt systems, agents, vector search, evals
 Stripe, Paddle, HubSpot, Salesforce, Shopify, Zendesk, Slack, Google Workspace
 
 ---
-## AI work
 
-- Context systems over messy business data
-- Retrieval that finds, ranks, and grounds answers
-- Tool workflows with state, retries, and handoffs
-- Structured outputs that systems can actually use
-- Human review for risky or unclear decisions
-- Evals built from real failures
-- Tracing for cost, latency, and output quality
+## AI systems I build
 
----
+* AI agent workflows that use tools, retry failures, preserve state, and escalate uncertainty
+* Extraction systems for messy CRM, support, operations, and revenue data
+* Hybrid deterministic + LLM pipelines where facts stay source-grounded
+* Human review gates when automation confidence is not enough
+* Failure-driven evals based on production mistakes, not benchmark theater
+
+  ----
+
 
 ## Contact
 
