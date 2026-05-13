@@ -96,7 +96,7 @@ Handles missed calls, customer questions, and support handoffs when slow replies
 
 ---
 
-### [Santa [Open Source] ↗](https://christmasai.vercel.app)
+### [Santa [Open Source] ↗](https://github.com/duggal1/santa)
 
 Christmas AI product.
 
