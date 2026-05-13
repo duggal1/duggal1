@@ -34,7 +34,7 @@ product judgment, design, architecture, data systems, AI implementation, and com
 
 ## What SynthicAI taught me
 
-<img src="https://media1.tenor.com/m/mZuCRpWtld4AAAAd/be-doo-be-doo-minion.gif" alt="SynthicAI alert" width="30%" />
+<img src="https://media1.tenor.com/m/mZuCRpWtld4AAAAd/be-doo-be-doo-minion.gif" alt="SynthicAI alert" width="40%" />
 
 In August 2025, I shipped SynthicAI, a voice AI agent for customer support.
 
