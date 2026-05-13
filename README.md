@@ -1,12 +1,26 @@
 <div align="center">
 
+<img src="https://duggal.darkfunnel.pro/logo.svg" alt="Harshit Duggal" height="72" />
+
 # Harshit Duggal
 
 ### AI Product Engineer
 
-I build AI software for revenue, support, healthcare, and internal operations.
+I build production-ready software end to end: product, interface, architecture, data, AI, and deployment.
 
-[Portfolio ↗](https://duggal.darkfunnel.pro) · [X ↗](https://x.com/harshitduggal5) · [Email ↗](mailto:hduggal@darkfunnel.pro)
+<p>
+  <a href="https://duggal.darkfunnel.pro" aria-label="Portfolio">
+    <img src="https://cdn.simpleicons.org/vercel/000000" alt="Portfolio" width="34" height="34" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/harshitduggal5" aria-label="X">
+    <img src="https://cdn.simpleicons.org/x/000000" alt="X" width="34" height="34" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:hduggal@darkfunnel.pro" aria-label="Email">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="34" height="34" />
+  </a>
+</p>
 
 </div>
 
@@ -16,15 +30,13 @@ I build AI software for revenue, support, healthcare, and internal operations.
 
 Most of these are closed-source. A few are public or partially public.
 
-The point here is shipped product work.
-
 ---
 
 ### [Dark Funnel ↗](https://darkfunnel.pro)
 
 Demo recovery and pipeline verification for B2B sales teams.
 
-Tracks booked demos after interest appears: meeting status, owner, CRM value, follow-up, and unresolved pipeline.
+Tracks what happened after a demo was booked: meeting status, owner, CRM value, follow-up, and unresolved pipeline.
 
 ---
 
@@ -56,7 +68,7 @@ Helps teams review refund exposure, policy breaks, approval gaps, and money leav
 
 AI voice support agent.
 
-Handles missed calls, customer questions, and simple support paths when slow replies cost the business.
+Handles missed calls, customer questions, and support handoffs when slow replies cost the business.
 
 ---
 
@@ -68,63 +80,93 @@ Tools for gift ideas, cards, room styling, and holiday planning.
 
 ---
 
+## A product that taught me something
+
+<img src="PASTE_YOUR_HOSTED_IMAGE_URL_HERE" alt="SynthicAI" width="100%" />
+
+In August 2025, I shipped SynthicAI, a voice AI product for customer support.
+
+It got 500+ waitlist users through Reddit, X, LinkedIn, and cold email. The product still failed for the right reasons to learn from: the market was crowded, the problem was too broad, and I had not validated who would actually pay before building.
+
+That changed how I build now. Narrower problem. Clearer buyer. Less noise. More proof before product.
+
+---
+
 ## Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind-111111?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/GSAP-111111?style=flat-square&logo=greensock&logoColor=88CE02" alt="GSAP" />
-  <img src="https://img.shields.io/badge/Bun-111111?style=flat-square&logo=bun&logoColor=white" alt="Bun" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Tailwind-111?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/GSAP-111?style=for-the-badge&logo=greensock&logoColor=88CE02" alt="GSAP" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Bun-111?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Neon-111111?style=flat-square&logo=neon&logoColor=00E599" alt="Neon" />
-  <img src="https://img.shields.io/badge/Drizzle-111111?style=flat-square&logo=drizzle&logoColor=C5F74F" alt="Drizzle" />
-  <img src="https://img.shields.io/badge/Prisma-111111?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Qdrant-111111?style=flat-square&logo=qdrant&logoColor=DC244C" alt="Qdrant" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Neon-111?style=for-the-badge&logo=neon&logoColor=00E599" alt="Neon" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Drizzle-111?style=for-the-badge&logo=drizzle&logoColor=C5F74F" alt="Drizzle" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Prisma-111?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Qdrant-111?style=for-the-badge&logo=qdrant&logoColor=DC244C" alt="Qdrant" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/AWS-111111?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS" />
-  <img src="https://img.shields.io/badge/GCP-111111?style=flat-square&logo=googlecloud&logoColor=4285F4" alt="GCP" />
+  <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/GCP-111?style=for-the-badge&logo=googlecloud&logoColor=4285F4" alt="GCP" />
 </p>
 
 ---
 
-## AI
+## AI work
 
-<p>
-  <img src="https://img.shields.io/badge/LLMs-111111?style=flat-square" alt="LLMs" />
-  <img src="https://img.shields.io/badge/RAG-111111?style=flat-square" alt="RAG" />
-  <img src="https://img.shields.io/badge/Agents-111111?style=flat-square" alt="Agents" />
-  <img src="https://img.shields.io/badge/Vector_Search-111111?style=flat-square" alt="Vector Search" />
-  <img src="https://img.shields.io/badge/Evals-111111?style=flat-square" alt="Evals" />
-</p>
-
-LLMs, RAG, agents, vector search, prompt systems, routing, and evaluation.
+- LLM applications
+- RAG systems
+- Agentic flows
+- Vector search
+- Prompt systems
+- Model routing
+- LLM evaluation
 
 ---
 
 ## Integrations
 
 <p>
-  <img src="https://img.shields.io/badge/Salesforce-111111?style=flat-square&logo=salesforce&logoColor=00A1E0" alt="Salesforce" />
-  <img src="https://img.shields.io/badge/HubSpot-111111?style=flat-square&logo=hubspot&logoColor=FF7A59" alt="HubSpot" />
-  <img src="https://img.shields.io/badge/Apollo-111111?style=flat-square" alt="Apollo" />
-  <img src="https://img.shields.io/badge/Outreach-111111?style=flat-square" alt="Outreach" />
-  <img src="https://img.shields.io/badge/Slack-111111?style=flat-square&logo=slack&logoColor=4A154B" alt="Slack" />
-  <img src="https://img.shields.io/badge/Google_Calendar-111111?style=flat-square&logo=googlecalendar&logoColor=4285F4" alt="Google Calendar" />
-  <img src="https://img.shields.io/badge/Gmail-111111?style=flat-square&logo=gmail&logoColor=EA4335" alt="Gmail" />
-  <img src="https://img.shields.io/badge/Stripe-111111?style=flat-square&logo=stripe&logoColor=635BFF" alt="Stripe" />
-  <img src="https://img.shields.io/badge/Shopify-111111?style=flat-square&logo=shopify&logoColor=7AB55C" alt="Shopify" />
-  <img src="https://img.shields.io/badge/Zendesk-111111?style=flat-square&logo=zendesk&logoColor=white" alt="Zendesk" />
+  <img src="https://img.shields.io/badge/Salesforce-111?style=for-the-badge&logo=salesforce&logoColor=00A1E0" alt="Salesforce" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/HubSpot-111?style=for-the-badge&logo=hubspot&logoColor=FF7A59" alt="HubSpot" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Apollo-111?style=for-the-badge" alt="Apollo" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Outreach-111?style=for-the-badge" alt="Outreach" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Slack-111?style=for-the-badge&logo=slack&logoColor=4A154B" alt="Slack" />
 </p>
 
-Salesforce, HubSpot, Apollo, Outreach, Slack, Google Calendar, Gmail, Stripe, Shopify, and Zendesk.
+<p>
+  <img src="https://img.shields.io/badge/Google_Calendar-111?style=for-the-badge&logo=googlecalendar&logoColor=4285F4" alt="Google Calendar" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Gmail-111?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Stripe-111?style=for-the-badge&logo=stripe&logoColor=635BFF" alt="Stripe" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Shopify-111?style=for-the-badge&logo=shopify&logoColor=7AB55C" alt="Shopify" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Zendesk-111?style=for-the-badge&logo=zendesk&logoColor=white" alt="Zendesk" />
+</p>
 
 ---
 
@@ -140,6 +182,12 @@ Secondary: [duggal@trysapphire.today](mailto:duggal@trysapphire.today)
 
 <div align="center">
 
-[Portfolio ↗](https://duggal.darkfunnel.pro) · [X ↗](https://x.com/harshitduggal5)
+<a href="https://duggal.darkfunnel.pro" aria-label="Portfolio">
+  <img src="https://cdn.simpleicons.org/vercel/000000" alt="Portfolio" width="30" height="30" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/harshitduggal5" aria-label="X">
+  <img src="https://cdn.simpleicons.org/x/000000" alt="X" width="30" height="30" />
+</a>
 
 </div>
