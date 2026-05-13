@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://duggal.darkfunnel.pro/logo.svg" alt="Harshit Duggal" height="64" />
-
 # Harshit Duggal
 
 ### AI Product Engineer
 
-I build small, useful software products around business workflows, revenue, support, operations, and AI.
+I build AI software for revenue, support, healthcare, and internal operations.
 
-[Portfolio](https://duggal.darkfunnel.pro) · [X](https://x.com/harshitduggal5) · [Email](mailto:hduggal@darkfunnel.pro)
+[Portfolio ↗](https://duggal.darkfunnel.pro) · [X ↗](https://x.com/harshitduggal5) · [Email ↗](mailto:hduggal@darkfunnel.pro)
 
 </div>
 
@@ -16,113 +14,117 @@ I build small, useful software products around business workflows, revenue, supp
 
 ## Products / Projects
 
-Most of these are closed source. A few are public or partially public.
+Most of these are closed-source. A few are public or partially public.
 
-The point of this section is simple: shipped product work.
+The point here is shipped product work.
 
 ---
 
-### <img src="https://darkfunnel.pro/logo.svg" alt="Dark Funnel" width="22" align="center" /> [Dark Funnel](https://darkfunnel.pro)
+### [Dark Funnel ↗](https://darkfunnel.pro)
 
 Demo recovery and pipeline verification for B2B sales teams.
 
-Dark Funnel checks what happened after a demo was booked: who owned it, whether the meeting happened, what the CRM says, and what still needs follow-up.
+Tracks booked demos after interest appears: meeting status, owner, CRM value, follow-up, and unresolved pipeline.
 
 ---
 
-### <img src="https://trysapphire.today/logo.svg" alt="Sapphire" width="22" align="center" /> [Sapphire](https://trysapphire.today)
+### [Sapphire ↗](https://trysapphire.today)
 
-Revenue tracking for booking-driven healthcare groups.
+Revenue intelligence for booking-driven healthcare groups.
 
-Sapphire connects patient inquiries, bookings, visits, payments, and follow-up status into one operational view.
-
----
-
-### <img src="https://bixbite.fun/logo.svg" alt="Bixbite" width="22" align="center" /> [Bixbite](https://bixbite.fun)
-
-AI search visibility for payroll software companies.
-
-Bixbite tracks how tools like ChatGPT, Claude, Gemini, and Perplexity mention, rank, and compare payroll platforms in buyer-style searches.
+Connects patient inquiries, bookings, visits, payments, staff handoffs, and recovery actions into one operating view.
 
 ---
 
-### <img src="https://tool.opalhq.fun/logo.svg" alt="Opal Tool" width="22" align="center" /> [Opal Tool](https://tool.opalhq.fun)
+### [Bixbite ↗](https://bixbite.fun)
 
-Business tool for refund and approval risk.
+AI visibility tracking for payroll software companies.
 
-Opal helps commerce teams review refund exposure, approval gaps, and policy issues before money leaves the business.
+Shows how ChatGPT, Claude, Gemini, and Perplexity mention, rank, compare, or exclude payroll platforms in buyer searches.
 
 ---
 
-### <img src="https://synthic-ai.vercel.app/logo.svg" alt="Synthic AI" width="22" align="center" /> [Synthic AI](https://synthic-ai.vercel.app)
+### [Opal Tool ↗](https://tool.opalhq.fun)
+
+Refund and approval risk tooling for commerce teams.
+
+Helps teams review refund exposure, policy breaks, approval gaps, and money leaving the business.
+
+---
+
+### [Synthic AI ↗](https://synthic-ai.vercel.app)
 
 AI voice support agent.
 
-Synthic AI handles missed calls, customer questions, and simple support workflows for businesses that cannot afford slow replies.
+Handles missed calls, customer questions, and simple support paths when slow replies cost the business.
 
 ---
 
-### <img src="https://christmasai.wersal.app/logo.svg" alt="Santa" width="22" align="center" /> [Santa](https://christmasai.wersal.app)
+### [Santa ↗](https://christmasai.wersal.app)
 
-Christmas AI tools.
+Christmas AI product.
 
-Santa helps with gift ideas, cards, room styling, and holiday planning.
-
----
-
-## Work areas
-
-- AI product development
-- SaaS product flows
-- Revenue and operations tools
-- CRM and sales workflow systems
-- Healthcare booking workflows
-- AI search and visibility tracking
-- Dashboards, queues, reports, and internal tools
+Tools for gift ideas, cards, room styling, and holiday planning.
 
 ---
 
 ## Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,js,bun,nodejs,postgres,prisma,vercel,aws,gcp" alt="Tech stack" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind-111111?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/GSAP-111111?style=flat-square&logo=greensock&logoColor=88CE02" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Bun-111111?style=flat-square&logo=bun&logoColor=white" alt="Bun" />
 </p>
 
-Next.js · React · TypeScript · Tailwind CSS · GSAP · Bun · Elysia · PostgreSQL · Neon · Drizzle · Prisma · Qdrant · Vercel · AWS · GCP
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Neon-111111?style=flat-square&logo=neon&logoColor=00E599" alt="Neon" />
+  <img src="https://img.shields.io/badge/Drizzle-111111?style=flat-square&logo=drizzle&logoColor=C5F74F" alt="Drizzle" />
+  <img src="https://img.shields.io/badge/Prisma-111111?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Qdrant-111111?style=flat-square&logo=qdrant&logoColor=DC244C" alt="Qdrant" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/AWS-111111?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/GCP-111111?style=flat-square&logo=googlecloud&logoColor=4285F4" alt="GCP" />
+</p>
 
 ---
 
 ## AI
 
-LLMs · RAG · agents · vector search · prompt systems · model routing · evaluation
+<p>
+  <img src="https://img.shields.io/badge/LLMs-111111?style=flat-square" alt="LLMs" />
+  <img src="https://img.shields.io/badge/RAG-111111?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/Agents-111111?style=flat-square" alt="Agents" />
+  <img src="https://img.shields.io/badge/Vector_Search-111111?style=flat-square" alt="Vector Search" />
+  <img src="https://img.shields.io/badge/Evals-111111?style=flat-square" alt="Evals" />
+</p>
+
+LLMs, RAG, agents, vector search, prompt systems, routing, and evaluation.
 
 ---
 
 ## Integrations
 
-These matter because most useful software sits between existing systems.
-
 <p>
-  <img src="https://cdn.simpleicons.org/salesforce/00A1E0" alt="Salesforce" width="28" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/hubspot/FF7A59" alt="HubSpot" width="28" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/apollo/000000" alt="Apollo" width="28" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/slack/4A154B" alt="Slack" width="28" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/googlecalendar/4285F4" alt="Google Calendar" width="28" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="28" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/stripe/635BFF" alt="Stripe" width="28" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/shopify/7AB55C" alt="Shopify" width="28" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/zendesk/03363D" alt="Zendesk" width="28" />
+  <img src="https://img.shields.io/badge/Salesforce-111111?style=flat-square&logo=salesforce&logoColor=00A1E0" alt="Salesforce" />
+  <img src="https://img.shields.io/badge/HubSpot-111111?style=flat-square&logo=hubspot&logoColor=FF7A59" alt="HubSpot" />
+  <img src="https://img.shields.io/badge/Apollo-111111?style=flat-square" alt="Apollo" />
+  <img src="https://img.shields.io/badge/Outreach-111111?style=flat-square" alt="Outreach" />
+  <img src="https://img.shields.io/badge/Slack-111111?style=flat-square&logo=slack&logoColor=4A154B" alt="Slack" />
+  <img src="https://img.shields.io/badge/Google_Calendar-111111?style=flat-square&logo=googlecalendar&logoColor=4285F4" alt="Google Calendar" />
+  <img src="https://img.shields.io/badge/Gmail-111111?style=flat-square&logo=gmail&logoColor=EA4335" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Stripe-111111?style=flat-square&logo=stripe&logoColor=635BFF" alt="Stripe" />
+  <img src="https://img.shields.io/badge/Shopify-111111?style=flat-square&logo=shopify&logoColor=7AB55C" alt="Shopify" />
+  <img src="https://img.shields.io/badge/Zendesk-111111?style=flat-square&logo=zendesk&logoColor=white" alt="Zendesk" />
 </p>
 
-Salesforce · HubSpot · Apollo · Outreach · Slack · Google Calendar · Gmail · Stripe · Shopify · Zendesk
+Salesforce, HubSpot, Apollo, Outreach, Slack, Google Calendar, Gmail, Stripe, Shopify, and Zendesk.
 
 ---
 
@@ -132,14 +134,12 @@ For serious work only, please.
 
 [hduggal@darkfunnel.pro](mailto:hduggal@darkfunnel.pro)
 
-Secondary:
-
-[duggal@trysapphire.today](mailto:duggal@trysapphire.today)
+Secondary: [duggal@trysapphire.today](mailto:duggal@trysapphire.today)
 
 ---
 
 <div align="center">
 
-[Portfolio](https://duggal.darkfunnel.pro) · [X](https://x.com/harshitduggal5)
+[Portfolio ↗](https://duggal.darkfunnel.pro) · [X ↗](https://x.com/harshitduggal5)
 
 </div>
