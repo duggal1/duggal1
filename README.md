@@ -6,7 +6,7 @@
 
 ### AI Product Engineer
 
-I build production-ready software end to end: product, interface, architecture, data, AI, and deployment.
+I build production ready software end to end product judgment, interface design, architecture, data systems, AI implementation, and complex integrations.
 
 <p>
   <a href="https://duggal.darkfunnel.pro" aria-label="Portfolio">
