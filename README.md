@@ -97,7 +97,7 @@ Handles missed calls, customer questions, and support handoffs when slow replies
 
 ---
 
-### [Santa ↗](https://christmasai.wersal.app)
+### [Santa ↗](https://christmasai.versal.app)
 
 Christmas AI product.
 
