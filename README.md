@@ -128,14 +128,13 @@ Stripe, Paddle, HubSpot, Salesforce, Shopify, Zendesk, Slack, Google Workspace
 ---
 
 ## AI systems I build
-
 * AI agent workflows that use tools, retry failures, preserve state, and escalate uncertainty
 * Extraction systems for messy CRM, support, operations, and revenue data
 * Hybrid deterministic + LLM pipelines where facts stay source-grounded
 * Human review gates when automation confidence is not enough
 * Failure-driven evals based on production mistakes, not benchmark theater
 
-  ----
+----
 
 
 ## Contact
