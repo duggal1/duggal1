@@ -30,7 +30,7 @@ product judgment, design, architecture, data systems, AI implementation, and com
 
 </div>
 
-
+--
 
 ## What SynthicAI taught me
 
