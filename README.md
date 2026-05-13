@@ -13,11 +13,10 @@ I build production-ready software end to end: product, interface, architecture, 
     <img src="https://duggal.darkfunnel.pro/logo.svg" alt="Portfolio" width="22" height="22" align="center" />
     <strong>Portfolio</strong>
   </a>
-
-  <a href="https://x.com/harshitduggal5" aria-label="X">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" height="24" align="center" />
-     <strong>X/Twitter</strong>
-  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/harshitduggal5" aria-label="X/Twitter">
+  <img src="https://img.shields.io/badge/X%2FTwitter-000000?style=flat-square&logo=x&logoColor=white" alt="X/Twitter" height="24" align="center" />
+</a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:hduggal@darkfunnel.pro" aria-label="Email">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="22" height="22" align="center" />
