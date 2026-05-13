@@ -13,7 +13,7 @@ I build production-ready software end to end: product, interface, architecture, 
     <img src="https://duggal.darkfunnel.pro/logo.svg" alt="Portfolio" width="22" height="22" align="center" />
     <strong>Portfolio</strong>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://x.com/harshitduggal5" aria-label="X">
     <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" height="24" align="center" />
      <strong>X/Twitter</strong>
