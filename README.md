@@ -34,6 +34,8 @@ product judgment, design, architecture, data systems, AI implementation, and com
 
 ## What SynthicAI taught me
 
+<img src="https://media1.tenor.com/m/mZuCRpWtld4AAAAd/be-doo-be-doo-minion.gif" alt="SynthicAI alert" width="100%" />
+
 In August 2025, I shipped SynthicAI, a voice AI agent for customer support.
 
 It reached 500+ waitlist users through Reddit, X, LinkedIn, and cold email.
@@ -46,7 +48,6 @@ It failed because
 - AI infra cost became real before funding did
 
 It changed how I build. I stopped chasing broad markets and started looking for narrow, expensive problems with buyers already paying for broken solutions.
-
 ---
 
 ## Products / Projects
