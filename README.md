@@ -38,14 +38,14 @@ In August 2025, I shipped SynthicAI, a voice AI agent for customer support.
 
 It reached 500+ waitlist users through Reddit, X, LinkedIn, and cold email.
 
-It failed because:
+It failed because
 
-* the market was already crowded
-* the problem was too broad
-* I did not talk to enough buyers before building
-* AI infrastructure cost became real before funding did
+- the market was already crowded
+- the problem was too broad
+- I did not talk to enough buyers before building
+- AI infrastructure cost became real before funding did
 
-That changed how I build now: buyer first, narrow problem, clear payment signal, then product.
+It changed how I build now  I stopped chasing broad markets and started looking for narrow, expensive problems with buyers already paying for broken solutions.
 
 
 ---
