@@ -10,15 +10,17 @@ I build production-ready software end to end: product, interface, architecture, 
 
 <p>
   <a href="https://duggal.darkfunnel.pro" aria-label="Portfolio">
-    <img src="https://cdn.simpleicons.org/vercel/000000" alt="Portfolio" width="34" height="34" />
+    <img src="https://duggal.darkfunnel.pro/logo.svg" alt="Portfolio" width="22" height="22" align="center" />
+    <strong>Portfolio</strong>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/harshitduggal5" aria-label="X">
-    <img src="https://cdn.simpleicons.org/x/000000" alt="X" width="34" height="34" />
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" height="24" align="center" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:hduggal@darkfunnel.pro" aria-label="Email">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="34" height="34" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="22" height="22" align="center" />
+    <strong>Email</strong>
   </a>
 </p>
 
@@ -26,9 +28,21 @@ I build production-ready software end to end: product, interface, architecture, 
 
 ---
 
+## What SynthicAI taught me
+
+<img src="PASTE_YOUR_HOSTED_SYNTHICAI_IMAGE_URL_HERE" alt="SynthicAI" width="100%" />
+
+In August 2025, I shipped SynthicAI, a voice AI agent for customer support.
+
+It reached 500+ waitlist users through Reddit, X, LinkedIn, and cold email. It still failed because I built into a crowded market, framed the problem too broadly, skipped enough buyer conversations, and underestimated the AI infrastructure cost before I had product funding.
+
+That changed how I build. I start with the buyer, the niche, the painful job, and the payment test before committing the product shape. A product can be ambitious. The entry point cannot be vague.
+
+---
+
 ## Products / Projects
 
-Most of these are closed-source. A few are public or partially public.
+Most of these are closed source. A few are public or partially public.
 
 ---
 
@@ -80,92 +94,127 @@ Tools for gift ideas, cards, room styling, and holiday planning.
 
 ---
 
-## A product that taught me something
-
-<img src="PASTE_YOUR_HOSTED_IMAGE_URL_HERE" alt="SynthicAI" width="100%" />
-
-In August 2025, I shipped SynthicAI, a voice AI product for customer support.
-
-It got 500+ waitlist users through Reddit, X, LinkedIn, and cold email. The product still failed for the right reasons to learn from: the market was crowded, the problem was too broad, and I had not validated who would actually pay before building.
-
-That changed how I build now. Narrower problem. Clearer buyer. Less noise. More proof before product.
-
----
-
 ## Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Tailwind-111?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/GSAP-111?style=for-the-badge&logo=greensock&logoColor=88CE02" alt="GSAP" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Bun-111?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" />
-</p>
+### Interface
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Neon-111?style=for-the-badge&logo=neon&logoColor=00E599" alt="Neon" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Drizzle-111?style=for-the-badge&logo=drizzle&logoColor=C5F74F" alt="Drizzle" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Prisma-111?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Qdrant-111?style=for-the-badge&logo=qdrant&logoColor=DC244C" alt="Qdrant" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" width="28" height="28" align="center" />
+  <strong>Next.js</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="28" height="28" align="center" />
+  <strong>React</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="28" height="28" align="center" />
+  <strong>TypeScript</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/38BDF8" alt="Tailwind CSS" width="28" height="28" align="center" />
+  <strong>Tailwind CSS</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/greensock/88CE02" alt="GSAP" width="28" height="28" align="center" />
+  <strong>GSAP</strong>
 </p>
 
+<br />
+
+### Backend
+
 <p>
-  <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/GCP-111?style=for-the-badge&logo=googlecloud&logoColor=4285F4" alt="GCP" />
+  <img src="https://cdn.simpleicons.org/bun/000000" alt="Bun" width="28" height="28" align="center" />
+  <strong>Bun</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="Node.js" width="28" height="28" align="center" />
+  <strong>Node.js</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" width="28" height="28" align="center" />
+  <strong>PostgreSQL</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" alt="Prisma" width="28" height="28" align="center" />
+  <strong>Prisma</strong>
+</p>
+
+<br />
+
+### Data and infra
+
+<p>
+  <img src="https://cdn.simpleicons.org/neon/00E599" alt="Neon" width="28" height="28" align="center" />
+  <strong>Neon</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/drizzle/C5F74F" alt="Drizzle" width="28" height="28" align="center" />
+  <strong>Drizzle</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/qdrant/DC244C" alt="Qdrant" width="28" height="28" align="center" />
+  <strong>Qdrant</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/vercel/000000" alt="Vercel" width="28" height="28" align="center" />
+  <strong>Vercel</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" alt="AWS" width="28" height="28" align="center" />
+  <strong>AWS</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" alt="GCP" width="28" height="28" align="center" />
+  <strong>GCP</strong>
 </p>
 
 ---
 
 ## AI work
 
-- LLM applications
-- RAG systems
-- Agentic flows
-- Vector search
-- Prompt systems
-- Model routing
-- LLM evaluation
+- LLM applications that need structured outputs, not loose chat
+- RAG over product, support, CRM, and operational data
+- Agent flows with clear ownership, fallbacks, and handoff rules
+- Vector search for retrieval, matching, ranking, and memory
+- Prompt systems with test cases and failure checks
+- Model routing when cost, latency, or quality matters
+- LLM evaluation before outputs reach users
 
 ---
 
 ## Integrations
 
-<p>
-  <img src="https://img.shields.io/badge/Salesforce-111?style=for-the-badge&logo=salesforce&logoColor=00A1E0" alt="Salesforce" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/HubSpot-111?style=for-the-badge&logo=hubspot&logoColor=FF7A59" alt="HubSpot" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Apollo-111?style=for-the-badge" alt="Apollo" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Outreach-111?style=for-the-badge" alt="Outreach" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Slack-111?style=for-the-badge&logo=slack&logoColor=4A154B" alt="Slack" />
-</p>
+### Sales and CRM
 
 <p>
-  <img src="https://img.shields.io/badge/Google_Calendar-111?style=for-the-badge&logo=googlecalendar&logoColor=4285F4" alt="Google Calendar" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Gmail-111?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Stripe-111?style=for-the-badge&logo=stripe&logoColor=635BFF" alt="Stripe" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Shopify-111?style=for-the-badge&logo=shopify&logoColor=7AB55C" alt="Shopify" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Zendesk-111?style=for-the-badge&logo=zendesk&logoColor=white" alt="Zendesk" />
+  <img src="https://cdn.simpleicons.org/salesforce/00A1E0" alt="Salesforce" width="28" height="28" align="center" />
+  <strong>Salesforce</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/hubspot/FF7A59" alt="HubSpot" width="28" height="28" align="center" />
+  <strong>HubSpot</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Apollo-111111?style=flat-square" alt="Apollo" height="24" align="center" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Outreach-111111?style=flat-square" alt="Outreach" height="24" align="center" />
+</p>
+
+<br />
+
+### Communication
+
+<p>
+  <img src="https://cdn.simpleicons.org/slack/4A154B" alt="Slack" width="28" height="28" align="center" />
+  <strong>Slack</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlecalendar/4285F4" alt="Google Calendar" width="28" height="28" align="center" />
+  <strong>Google Calendar</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="28" height="28" align="center" />
+  <strong>Gmail</strong>
+</p>
+
+<br />
+
+### Payments and support
+
+<p>
+  <img src="https://cdn.simpleicons.org/stripe/635BFF" alt="Stripe" width="28" height="28" align="center" />
+  <strong>Stripe</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/shopify/7AB55C" alt="Shopify" width="28" height="28" align="center" />
+  <strong>Shopify</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/zendesk/03363D" alt="Zendesk" width="28" height="28" align="center" />
+  <strong>Zendesk</strong>
 </p>
 
 ---
@@ -182,12 +231,15 @@ Secondary: [duggal@trysapphire.today](mailto:duggal@trysapphire.today)
 
 <div align="center">
 
-<a href="https://duggal.darkfunnel.pro" aria-label="Portfolio">
-  <img src="https://cdn.simpleicons.org/vercel/000000" alt="Portfolio" width="30" height="30" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://x.com/harshitduggal5" aria-label="X">
-  <img src="https://cdn.simpleicons.org/x/000000" alt="X" width="30" height="30" />
-</a>
+<p>
+  <a href="https://duggal.darkfunnel.pro" aria-label="Portfolio">
+    <img src="https://duggal.darkfunnel.pro/logo.svg" alt="Portfolio" width="22" height="22" align="center" />
+    <strong>Portfolio</strong>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/harshitduggal5" aria-label="X">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" height="24" align="center" />
+  </a>
+</p>
 
 </div>
