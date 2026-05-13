@@ -38,7 +38,7 @@ product judgment, design, architecture, data systems, AI implementation, and com
 
 In August 2025, I shipped SynthicAI, a voice AI agent for customer support.
 
-It reached 500+ waitlist users through Reddit, X, LinkedIn, and cold email.
+It reached 500+ waitlist users through Reddit, X, and LinkedIn
 
 It failed because
 
