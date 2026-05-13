@@ -6,7 +6,8 @@
 
 ### Founding Engineer
 
-I build production products where the problem is not just code it’s product complexity, broken workflows, ugly integrations, and poor design.
+I build production products where the hard parts are not just code:
+product complexity, broken workflows, ugly integrations, and poor design.
 
 <p>
   <a href="https://duggal.darkfunnel.pro" aria-label="Portfolio">
