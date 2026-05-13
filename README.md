@@ -6,7 +6,7 @@
 
 ### AI Product Engineer
 
-I build production ready software end to end
+I build production-ready software end to end:  
 product judgment, design, architecture, data systems, AI implementation, and complex integrations.
 
 <p>
@@ -15,12 +15,12 @@ product judgment, design, architecture, data systems, AI implementation, and com
     <strong>Portfolio</strong>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  
-<a href="https://x.com/harshitduggal5" aria-label="X/Twitter">
-  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white" alt="X" height="24" align="center" />
-  <strong>X/Twitter</strong>
-</a>
+
+  <a href="https://x.com/harshitduggal5" aria-label="X/Twitter">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X/Twitter" height="24" align="center" />
+  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="mailto:hduggal@darkfunnel.pro" aria-label="Email">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="22" height="22" align="center" />
     <strong>Email</strong>
@@ -33,8 +33,6 @@ product judgment, design, architecture, data systems, AI implementation, and com
 
 ## What SynthicAI taught me
 
-<img src="https://tenor.com/search/alert-gifs" alt="SynthicAI" width="100%" />
-
 In August 2025, I shipped SynthicAI, a voice AI agent for customer support.
 
 It reached 500+ waitlist users through Reddit, X, LinkedIn, and cold email.
@@ -46,8 +44,7 @@ It failed because
 - I did not talk to enough buyers before building
 - AI infra cost became real before funding did
 
-It changed how I build now  I stopped chasing broad markets and started looking for narrow, expensive problems with buyers already paying for broken solutions.
-
+It changed how I build. I stopped chasing broad markets and started looking for narrow, expensive problems with buyers already paying for broken solutions.
 
 ---
 
@@ -110,18 +107,25 @@ Tools for gift ideas, cards, room styling, and holiday planning.
 ### Interface
 
 <p>
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" width="28" height="28" align="center" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff">
+    <img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" width="28" height="28" align="center" />
+  </picture>
   <strong>Next.js</strong>
   &nbsp;&nbsp;&nbsp;&nbsp;
+
   <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="28" height="28" align="center" />
   <strong>React</strong>
   &nbsp;&nbsp;&nbsp;&nbsp;
+
   <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="28" height="28" align="center" />
   <strong>TypeScript</strong>
   &nbsp;&nbsp;&nbsp;&nbsp;
+
   <img src="https://cdn.simpleicons.org/tailwindcss/38BDF8" alt="Tailwind CSS" width="28" height="28" align="center" />
   <strong>Tailwind CSS</strong>
   &nbsp;&nbsp;&nbsp;&nbsp;
+
   <img src="https://cdn.simpleicons.org/greensock/88CE02" alt="GSAP" width="28" height="28" align="center" />
   <strong>GSAP</strong>
 </p>
@@ -131,16 +135,22 @@ Tools for gift ideas, cards, room styling, and holiday planning.
 ### Backend
 
 <p>
-  <img src="https://cdn.simpleicons.org/bun/000000" alt="Bun" width="28" height="28" align="center" />
+  <img src="https://bun.com/logo.svg" alt="Bun" width="28" height="28" align="center" />
   <strong>Bun</strong>
   &nbsp;&nbsp;&nbsp;&nbsp;
+
   <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="Node.js" width="28" height="28" align="center" />
   <strong>Node.js</strong>
   &nbsp;&nbsp;&nbsp;&nbsp;
+
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" width="28" height="28" align="center" />
   <strong>PostgreSQL</strong>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/prisma/2D3748" alt="Prisma" width="28" height="28" align="center" />
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/prisma/ffffff">
+    <img src="https://cdn.simpleicons.org/prisma/2D3748" alt="Prisma" width="28" height="28" align="center" />
+  </picture>
   <strong>Prisma</strong>
 </p>
 
@@ -152,18 +162,25 @@ Tools for gift ideas, cards, room styling, and holiday planning.
   <img src="https://cdn.simpleicons.org/neon/00E599" alt="Neon" width="28" height="28" align="center" />
   <strong>Neon</strong>
   &nbsp;&nbsp;&nbsp;&nbsp;
+
   <img src="https://cdn.simpleicons.org/drizzle/C5F74F" alt="Drizzle" width="28" height="28" align="center" />
   <strong>Drizzle</strong>
   &nbsp;&nbsp;&nbsp;&nbsp;
+
   <img src="https://cdn.simpleicons.org/qdrant/DC244C" alt="Qdrant" width="28" height="28" align="center" />
   <strong>Qdrant</strong>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/vercel/000000" alt="Vercel" width="28" height="28" align="center" />
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/ffffff">
+    <img src="https://cdn.simpleicons.org/vercel/000000" alt="Vercel" width="28" height="28" align="center" />
+  </picture>
   <strong>Vercel</strong>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" alt="AWS" width="28" height="28" align="center" />
-  <strong>AWS</strong>
+
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS" height="24" align="center" />
   &nbsp;&nbsp;&nbsp;&nbsp;
+
   <img src="https://cdn.simpleicons.org/googlecloud/4285F4" alt="GCP" width="28" height="28" align="center" />
   <strong>GCP</strong>
 </p>
@@ -187,15 +204,17 @@ Tools for gift ideas, cards, room styling, and holiday planning.
 ### Sales and CRM
 
 <p>
-  <img src="https://cdn.simpleicons.org/salesforce/00A1E0" alt="Salesforce" width="28" height="28" align="center" />
-  <strong>Salesforce</strong>
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce" height="24" align="center" />
   &nbsp;&nbsp;&nbsp;&nbsp;
+
   <img src="https://cdn.simpleicons.org/hubspot/FF7A59" alt="HubSpot" width="28" height="28" align="center" />
   <strong>HubSpot</strong>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Apollo-111111?style=flat-square" alt="Apollo" height="24" align="center" />
+
+  <img src="https://img.shields.io/badge/Apollo-111111?style=flat-square&logoColor=white" alt="Apollo" height="24" align="center" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Outreach-111111?style=flat-square" alt="Outreach" height="24" align="center" />
+
+  <img src="https://img.shields.io/badge/Outreach-111111?style=flat-square&logoColor=white" alt="Outreach" height="24" align="center" />
 </p>
 
 <br />
@@ -203,12 +222,13 @@ Tools for gift ideas, cards, room styling, and holiday planning.
 ### Communication
 
 <p>
-  <img src="https://cdn.simpleicons.org/slack/4A154B" alt="Slack" width="28" height="28" align="center" />
-  <strong>Slack</strong>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" alt="Slack" height="24" align="center" />
   &nbsp;&nbsp;&nbsp;&nbsp;
+
   <img src="https://cdn.simpleicons.org/googlecalendar/4285F4" alt="Google Calendar" width="28" height="28" align="center" />
   <strong>Google Calendar</strong>
   &nbsp;&nbsp;&nbsp;&nbsp;
+
   <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="28" height="28" align="center" />
   <strong>Gmail</strong>
 </p>
@@ -221,9 +241,11 @@ Tools for gift ideas, cards, room styling, and holiday planning.
   <img src="https://cdn.simpleicons.org/stripe/635BFF" alt="Stripe" width="28" height="28" align="center" />
   <strong>Stripe</strong>
   &nbsp;&nbsp;&nbsp;&nbsp;
+
   <img src="https://cdn.simpleicons.org/shopify/7AB55C" alt="Shopify" width="28" height="28" align="center" />
   <strong>Shopify</strong>
   &nbsp;&nbsp;&nbsp;&nbsp;
+
   <img src="https://cdn.simpleicons.org/zendesk/03363D" alt="Zendesk" width="28" height="28" align="center" />
   <strong>Zendesk</strong>
 </p>
@@ -248,10 +270,10 @@ Secondary: [duggal@trysapphire.today](mailto:duggal@trysapphire.today)
     <strong>Portfolio</strong>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://x.com/harshitduggal5" aria-label="X/Twitter">
-  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white" alt="X" height="24" align="center" />
-  <strong> X </strong>
-</a>
+
+  <a href="https://x.com/harshitduggal5" aria-label="X/Twitter">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X/Twitter" height="24" align="center" />
+  </a>
 </p>
 
 </div>
