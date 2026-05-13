@@ -44,7 +44,7 @@ It failed because
 - the market was already crowded
 - the problem was too broad
 - I did not talk to enough buyers before building
-- AI infrastructure cost became real before funding did
+- AI infra cost became real before funding did
 
 It changed how I build now  I stopped chasing broad markets and started looking for narrow, expensive problems with buyers already paying for broken solutions.
 
