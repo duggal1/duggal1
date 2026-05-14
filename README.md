@@ -112,7 +112,7 @@ Tools for gift ideas, cards, room styling, and holiday planning.
 </p>
 
 **Frontend**  
-Next.js, React, TypeScript, Tailwind CSS, Zustand, TanStack Query
+Next.js, React, TypeScript, Tailwind CSS, Zustand, TanStack Query, Gsap , motion.dev
 
 **Backend**  
 Bun, Elysia, Next.js Server Actions, Inngest, REST APIs, webhooks
