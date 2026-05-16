@@ -4,7 +4,7 @@
 
 # Harshit Duggal
 
-### Founding Engineer
+### AI Product Engineer
 
 I build production products where the hard parts are not just code:
 product complexity, broken workflows, ugly integrations, and poor design.
