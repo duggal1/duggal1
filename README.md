@@ -10,7 +10,7 @@ I build production products where the hard parts are not just code:
 product complexity, broken workflows, ugly integrations, and poor design.
 
 <p>
-  <a href="https://duggal.darkfunnel.pro" aria-label="Portfolio">
+  <a href="https://harshit.painite.site" aria-label="Portfolio">
     <img src="https://duggal.darkfunnel.pro/logo.svg" alt="Portfolio" width="22" height="22" align="center" />
     <strong>Portfolio</strong>
   </a>
@@ -22,7 +22,7 @@ product complexity, broken workflows, ugly integrations, and poor design.
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="mailto:hduggal@darkfunnel.pro" aria-label="Email">
+  <a href="mailto:hduggalx@gmail.com" aria-label="Email">
     <img src="https://img.shields.io/badge/-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="24" align="center" />
     <strong>Email</strong>
   </a>
