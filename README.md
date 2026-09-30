@@ -1,49 +1,42 @@
 # Duggal
 
-Agentic engineer. 21, India. Self-taught since 2023, no engineering job, shipping anyway.
+Agentic engineer. 21, India.
 
-I run AI coding agents in parallel and own what they can't: architecture, specs, taste, and what ships. Building agentic research infrastructure for GTM.
+Building agentic research infrastructure for modern GTM. Self-taught since late 2023. Never had an engineering job. Ship anyway. I run multiple AI coding agents in parallel and own what they can't: architecture, specs, taste, and the call on what ships.
 
 > Software is cheap. Judgment is not.
 
-<table>
-  <tr>
-    <td colspan="2"><b>👋 About Me</b></td>
-    <td align="center"><a href="https://duggal.darkfunnel.pro"><img src="assets/icons/web.svg" height="22" alt="Website"></a></td>
-    <td align="center"><a href="https://x.com/duggalgg"><img src="assets/icons/x.svg" height="22" alt="X"></a></td>
-    <td align="center"><a href="https://github.com/duggal1"><img src="assets/icons/github.svg" height="22" alt="GitHub"></a></td>
-    <td align="center"><a href="mailto:hduggalx@gmail.com"><img src="assets/icons/gmail.svg" height="22" alt="Email"></a></td>
-  </tr>
-  <tr>
-    <td colspan="3"><a href="https://www.trysapphire.today"><img src="assets/shots/sapphire.png" width="100%" alt="Sapphire"></a></td>
-    <td colspan="3"><a href="https://github.com/duggal1/aether"><img src="assets/shots/aether.png" width="100%" alt="Aether"></a></td>
-  </tr>
-  <tr>
-    <td colspan="3"><a href="https://duggal.darkfunnel.pro"><img src="assets/shots/darkfunnel.png" width="100%" alt="Dark Funnel"></a></td>
-    <td colspan="3"><a href="https://www.opalhq.fun"><img src="assets/shots/opal.png" width="100%" alt="Opal"></a></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right"><b>languages</b></td>
-    <td colspan="4"><img src="assets/icons/typescript.svg" height="14" align="absmiddle">&nbsp;TypeScript&nbsp;&nbsp;&nbsp;<img src="assets/icons/swift.svg" height="14" align="absmiddle">&nbsp;Swift</td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right"><b>frontend</b></td>
-    <td colspan="4"><img src="assets/icons/react.svg" height="14" align="absmiddle">&nbsp;React&nbsp;&nbsp;&nbsp;<img src="assets/icons/nextdotjs.svg" height="14" align="absmiddle">&nbsp;Next.js&nbsp;&nbsp;&nbsp;<img src="assets/icons/tailwindcss.svg" height="14" align="absmiddle">&nbsp;Tailwind&nbsp;&nbsp;&nbsp;<img src="assets/icons/framer.svg" height="14" align="absmiddle">&nbsp;Motion&nbsp;&nbsp;&nbsp;<img src="assets/icons/gsap.svg" height="14" align="absmiddle">&nbsp;GSAP&nbsp;&nbsp;&nbsp;<img src="assets/icons/vite.svg" height="14" align="absmiddle">&nbsp;Vite</td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right"><b>backend</b></td>
-    <td colspan="4"><img src="assets/icons/bun.svg" height="14" align="absmiddle">&nbsp;Bun&nbsp;&nbsp;&nbsp;<img src="assets/icons/postgresql.svg" height="14" align="absmiddle">&nbsp;Postgres&nbsp;&nbsp;&nbsp;<img src="assets/icons/drizzle.svg" height="14" align="absmiddle">&nbsp;Drizzle&nbsp;&nbsp;&nbsp;<img src="assets/icons/docker.svg" height="14" align="absmiddle">&nbsp;Docker&nbsp;&nbsp;&nbsp;<img src="assets/icons/stripe.svg" height="14" align="absmiddle">&nbsp;Stripe&nbsp;&nbsp;&nbsp;<img src="assets/icons/sentry.svg" height="14" align="absmiddle">&nbsp;Sentry&nbsp;&nbsp;&nbsp;oRPC&nbsp;&nbsp;&nbsp;Inngest</td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right"><b>agents / ai</b></td>
-    <td colspan="4"><img src="assets/icons/modelcontextprotocol.svg" height="14" align="absmiddle">&nbsp;MCP&nbsp;&nbsp;&nbsp;<img src="assets/icons/claudecode.svg" height="14" align="absmiddle">&nbsp;Claude Code&nbsp;&nbsp;&nbsp;<img src="assets/icons/openai.svg" height="14" align="absmiddle">&nbsp;OpenAI&nbsp;&nbsp;&nbsp;<img src="assets/icons/langchain.svg" height="14" align="absmiddle">&nbsp;LangChain&nbsp;&nbsp;&nbsp;<img src="assets/icons/langgraph.svg" height="14" align="absmiddle">&nbsp;LangGraph</td>
-  </tr>
-  <tr>
-    <td colspan="2" align="right"><b>infra</b></td>
-    <td colspan="4">AWS&nbsp;&nbsp;&nbsp;<img src="assets/icons/googlecloud.svg" height="14" align="absmiddle">&nbsp;Google Cloud&nbsp;&nbsp;&nbsp;<img src="assets/icons/cloudflare.svg" height="14" align="absmiddle">&nbsp;Cloudflare</td>
-  </tr>
-</table>
+| 👋 About Me | <a href="https://duggal.darkfunnel.pro"><img src="https://img.shields.io/badge/Website-18181b?style=for-the-badge&logo=googlechrome&logoColor=4285F4" alt="Website"></a> | <a href="https://x.com/duggalgg"><img src="https://img.shields.io/badge/X-18181b?style=for-the-badge&logo=x&logoColor=ffffff" alt="X"></a> | <a href="https://github.com/duggal1"><img src="https://img.shields.io/badge/GitHub-18181b?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"></a> | <a href="mailto:hduggalx@gmail.com"><img src="https://img.shields.io/badge/Email-18181b?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"></a> |
+|:--|:--:|:--:|:--:|:--:|
 
-Also shipping [Superflow](https://superflow.bixbite.fun), [Bixbite](https://www.bixbite.fun) and [ai-budget](https://www.npmjs.com/package/@painitehq/ai-budget). Writing at [blog-duggal.darkfunnel.pro](https://blog-duggal.darkfunnel.pro).
+## What I'm doing
 
-Open to founding and AI engineering roles: [hduggalx@gmail.com](mailto:hduggalx@gmail.com)
+Shipping like a machine. Living in the future.
+
+- Learning and shipping tools that make agentic engineering faster, for my workflow and everyone else's.
+- Building production-ready tools in hours, not weeks.
+- Writing about my AI workflows and the weird things I experiment with at [blog-duggal.darkfunnel.pro](https://blog-duggal.darkfunnel.pro).
+
+## Work
+
+| Project | What it is |
+|:--|:--|
+| [**Sapphire**](https://www.trysapphire.today) | AI-native B2B customer acquisition. Agents research your market, find buyers, run outreach. |
+| [**Aether**](https://github.com/duggal1/aether) | A browser built for AI agents. One isolated workspace per coding agent. In development. |
+| [**Dark Funnel**](https://duggal.darkfunnel.pro) | Describe who you need once. Get export-ready prospect data. |
+| [**Opal**](https://www.opalhq.fun) | AI CRM for job hunting. Match your resume to jobs, track every application. |
+| [**Superflow**](https://superflow.bixbite.fun) | Free, open-source voice dictation for developers. |
+| [**Bixbite**](https://www.bixbite.fun) | Name a company. See if it's profitable, burning cash, or raising. |
+| [**ai-budget**](https://www.npmjs.com/package/@painitehq/ai-budget) | npm SDK for AI abuse and budget prevention. |
+
+## Stack
+
+| | |
+|--:|:--|
+| **languages** | <img src="https://img.shields.io/badge/TypeScript-18181b?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript"> <img src="https://img.shields.io/badge/Swift-18181b?style=flat-square&logo=swift&logoColor=F05138" alt="Swift"> <img src="https://img.shields.io/badge/Rust-18181b?style=flat-square&logo=rust&logoColor=DEA584" alt="Rust"> |
+| **frontend** | <img src="https://img.shields.io/badge/Next.js-18181b?style=flat-square&logo=nextdotjs&logoColor=ffffff" alt="Next.js"> <img src="https://img.shields.io/badge/React-18181b?style=flat-square&logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/Tailwind%20CSS-18181b?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS"> <img src="https://img.shields.io/badge/GSAP-18181b?style=flat-square&logo=gsap&logoColor=0AE448" alt="GSAP"> <img src="https://img.shields.io/badge/Motion-18181b?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNCAwaDE2djhoLTh6TTQgOGg4bDggOEg0ek00IDE2aDh2OHoiLz48L3N2Zz4%3D" alt="Motion"> <img src="https://img.shields.io/badge/Vite-18181b?style=flat-square&logo=vite&logoColor=9135FF" alt="Vite"> |
+| **backend** | <img src="https://img.shields.io/badge/Neon-18181b?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMzRENTlBIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMjQgMFYyNGwtOS4zNjUtOC4wNDVWMjRIMFYwWk0yLjk0MiAyMS4wODdoOC43NTFWOS41NjNsOS4zNjUgOC4yMDRWMi45MTlMMi45NDIgMi45MTRaIi8%2BPC9zdmc%2B" alt="Neon"> <img src="https://img.shields.io/badge/Postgres-18181b?style=flat-square&logo=postgresql&logoColor=4169E1" alt="Postgres"> <img src="https://img.shields.io/badge/Drizzle-18181b?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjQzVGNzRGIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNS4zNTMgMTEuODIzYTEuMDM2IDEuMDM2IDAgMCAwLS4zOTUtMS40MjIgMS4wNjMgMS4wNjMgMCAwIDAtMS40MzcuMzk5TC4xMzggMTYuNzAyYTEuMDM1IDEuMDM1IDAgMCAwIC4zOTUgMS40MjIgMS4wNjMgMS4wNjMgMCAwIDAgMS40MzctLjM5OGwzLjM4My01LjkwM1ptMTEuMjE2IDBhMS4wMzYgMS4wMzYgMCAwIDAtLjM5NC0xLjQyMiAxLjA2NCAxLjA2NCAwIDAgMC0xLjQzOC4zOTlsLTMuMzgyIDUuOTAyYTEuMDM2IDEuMDM2IDAgMCAwIC4zOTQgMS40MjJjLjUwNi4yODMgMS4xNS4xMDQgMS40MzgtLjM5OGwzLjM4Mi01LjkwM1ptNy4yOTMtNC41MjVhMS4wMzYgMS4wMzYgMCAwIDAtLjM5NS0xLjQyMiAxLjA2MiAxLjA2MiAwIDAgMC0xLjQzNy4zOTlsLTMuMzgzIDUuOTAyYTEuMDM2IDEuMDM2IDAgMCAwIC4zOTUgMS40MjIgMS4wNjMgMS4wNjMgMCAwIDAgMS40MzctLjM5OWwzLjM4My01LjkwMlptLTExLjIxOSAwYTEuMDM1IDEuMDM1IDAgMCAwLS4zOTQtMS40MjIgMS4wNjQgMS4wNjQgMCAwIDAtMS40MzguMzk4bC0zLjM4MiA1LjkwM2ExLjAzNiAxLjAzNiAwIDAgMCAuMzk0IDEuNDIyYy41MDYuMjgyIDEuMTUuMTA0IDEuNDM4LS4zOTlsMy4zODItNS45MDJaIi8%2BPC9zdmc%2B" alt="Drizzle"> <img src="https://img.shields.io/badge/Bun-18181b?style=flat-square&logo=bun&logoColor=ffffff" alt="Bun"> <img src="https://img.shields.io/badge/Docker-18181b?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker"> <img src="https://img.shields.io/badge/oRPC-18181b?style=flat-square" alt="oRPC"> <img src="https://img.shields.io/badge/Inngest-18181b?style=flat-square" alt="Inngest"> <img src="https://img.shields.io/badge/Sentry-18181b?style=flat-square&logo=sentry&logoColor=9d86d9" alt="Sentry"> <img src="https://img.shields.io/badge/Stripe-18181b?style=flat-square&logo=stripe&logoColor=635BFF" alt="Stripe"> |
+| **infra** | <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/Google%20Cloud-18181b?style=flat-square&logo=googlecloud&logoColor=4285F4" alt="Google Cloud"> <img src="https://img.shields.io/badge/Cloudflare-18181b?style=flat-square&logo=cloudflare&logoColor=F38020" alt="Cloudflare"> |
+| **ai** | <img src="https://img.shields.io/badge/Claude%20Code-18181b?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI0IiBzdHlsZT0iZmxleDpub25lO2xpbmUtaGVpZ2h0OjEiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTIwLjk5OCAxMC45NDlIMjR2My4xMDJoLTN2My4wMjhoLTEuNDg3VjIwSDE4di0yLjkyMWgtMS40ODdWMjBIMTV2LTIuOTIxSDlWMjBINy40ODh2LTIuOTIxSDZWMjBINC40ODd2LTIuOTIxSDNWMTQuMDVIMFYxMC45NWgzVjVoMTcuOTk4djUuOTQ5ek02IDEwLjk0OWgxLjQ4OFY4LjEwMkg2djIuODQ3em0xMC41MSAwSDE4VjguMTAyaC0xLjQ5djIuODQ3eiIgZmlsbD0iI0Q5Nzc1NyIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg%2BPC9zdmc%2B" alt="Claude Code"> <img src="https://img.shields.io/badge/OpenAI%20Agents%20SDK-18181b?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGhlaWdodD0iMjQiIHN0eWxlPSJmbGV4Om5vbmU7bGluZS1oZWlnaHQ6MSIgdmlld0JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZD0iTTkuMjA1IDguNjU4di0yLjI2YzAtLjE5LjA3Mi0uMzMzLjIzOC0uNDI4bDQuNTQzLTIuNjE2Yy42MTktLjM1NyAxLjM1Ni0uNTIzIDIuMTE3LS41MjMgMi44NTQgMCA0LjY2MiAyLjIxMiA0LjY2MiA0LjU2NiAwIC4xNjcgMCAuMzU3LS4wMjQuNTQ3bC00LjcxLTIuNzU5YS43OTcuNzk3IDAgMDAtLjg1NiAwbC01Ljk3IDMuNDczem0xMC42MDkgOC44VjEyLjA2YzAtLjMzMy0uMTQzLS41Ny0uNDI5LS43MzdsLTUuOTctMy40NzMgMS45NS0xLjExOGEuNDMzLjQzMyAwIDAxLjQ3NiAwbDQuNTQzIDIuNjE3YzEuMzA5Ljc2IDIuMTg5IDIuMzc4IDIuMTg5IDMuOTQ4IDAgMS44MDgtMS4wNyAzLjQ3My0yLjc2IDQuMTYzek03LjgwMiAxMi43MDNsLTEuOTUtMS4xNDJjLS4xNjctLjA5NS0uMjM5LS4yMzgtLjIzOS0uNDI4VjUuODk5YzAtMi41NDUgMS45NS00LjQ3MiA0LjU5MS00LjQ3MiAxIDAgMS45MjcuMzMzIDIuNzEyLjkyOEw4LjIzIDUuMDY3Yy0uMjg1LjE2Ni0uNDI4LjQwNC0uNDI4LjczN3Y2Ljg5OHpNMTIgMTUuMTI4bC0yLjc5NS0xLjU3di0zLjMzTDEyIDguNjU4bDIuNzk1IDEuNTd2My4zM0wxMiAxNS4xMjh6bTEuNzk2IDcuMjNjLTEgMC0xLjkyNy0uMzMyLTIuNzEyLS45MjdsNC42ODYtMi43MTJjLjI4NS0uMTY2LjQyOC0uNDA0LjQyOC0uNzM3di02Ljg5OGwxLjk3NCAxLjE0MmMuMTY3LjA5NS4yMzguMjM4LjIzOC40Mjh2NS4yMzNjMCAyLjU0NS0xLjk3NCA0LjQ3Mi00LjYxNCA0LjQ3MnptLTUuNjM3LTUuMzAzbC00LjU0NC0yLjYxN2MtMS4zMDgtLjc2MS0yLjE4OC0yLjM3OC0yLjE4OC0zLjk0OEE0LjQ4MiA0LjQ4MiAwIDAxNC4yMSA2LjMyN3Y1LjQyM2MwIC4zMzMuMTQzLjU3MS40MjguNzM4bDUuOTQ3IDMuNDQ5LTEuOTUgMS4xMThhLjQzMi40MzIgMCAwMS0uNDc2IDB6bS0uMjYyIDMuOWMtMi42ODggMC00LjY2Mi0yLjAyMS00LjY2Mi00LjUxOSAwLS4xOS4wMjQtLjM4LjA0Ny0uNTdsNC42ODYgMi43MWMuMjg2LjE2Ny41NzEuMTY3Ljg1NiAwbDUuOTctMy40NDh2Mi4yNmMwIC4xOS0uMDcuMzMzLS4yMzcuNDI4bC00LjU0MyAyLjYxNmMtLjYxOS4zNTctMS4zNTYuNTIzLTIuMTE3LjUyM3ptNS44OTkgMi44M2E1Ljk0NyA1Ljk0NyAwIDAwNS44MjctNC43NTZDMjIuMjg3IDE4LjMzOSAyNCAxNS44NCAyNCAxMy4yOTZjMC0xLjY2NS0uNzEzLTMuMjgyLTEuOTk4LTQuNDQ4LjExOS0uNS4xOS0uOTk5LjE5LTEuNDk4IDAtMy40MDEtMi43NTktNS45NDctNS45NDYtNS45NDctLjY0MiAwLTEuMjYuMDk1LTEuODguMzFBNS45NjIgNS45NjIgMCAwMDEwLjIwNSAwYTUuOTQ3IDUuOTQ3IDAgMDAtNS44MjcgNC43NTdDMS43MTMgNS40NDcgMCA3Ljk0NSAwIDEwLjQ5YzAgMS42NjYuNzEzIDMuMjgzIDEuOTk4IDQuNDQ4LS4xMTkuNS0uMTkgMS0uMTkgMS40OTkgMCAzLjQwMSAyLjc1OSA1Ljk0NiA1Ljk0NiA1Ljk0Ni42NDIgMCAxLjI2LS4wOTUgMS44OC0uMzA5YTUuOTYgNS45NiAwIDAwNC4xNjIgMS43MTN6Ij48L3BhdGg%2BPC9zdmc%2B" alt="OpenAI Agents SDK"> <img src="https://img.shields.io/badge/LangGraph-18181b?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjN0ZDOEZGIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNSAxOUgxMEE1IDUgMCAxMTUgMTRaTTE5IDE0QTUgNSAwIDExMTQgMTlIMTlaTTEwIDVBNSA1IDAgMTA1IDEwVjVaTTE5IDVWMTBBNSA1IDAgMTAxNCA1WiIvPjwvc3ZnPg%3D%3D" alt="LangGraph"> <img src="https://img.shields.io/badge/LangChain-18181b?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjN0ZDOEZGIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTMuNzk2IDBhNi45MyA2LjkzIDAgMCAwLTQuOTEgMi4wMTlMNS40NTEgNS40NTVsMy4yNzMgMy4yNyAzLjQzMi0zLjQzMmEyLjI4NCAyLjI4NCAwIDAgMSAzLjI3NyAwIDIuMjggMi4yOCAwIDAgMSAwIDMuMjc1TDEyIDEyLjAwMWwzLjI3MyAzLjI3MyAzLjQzMy0zLjQzNWMyLjY5Mi0yLjY5MiAyLjY5Mi03LjEyNyAwLTkuODJBNi45MiA2LjkyIDAgMCAwIDEzLjc5NiAwbS01LjA3IDguNzI4LTMuNDMzIDMuNDM0Yy0yLjY5MiAyLjY5My0yLjY5MiA3LjEyNiAwIDkuODE5QTYuOTIgNi45MiAwIDAgMCAxMC4yMDMgMjRhNi45MyA2LjkzIDAgMCAwIDQuOTExLTIuMDJsMy40MzItMy40MzItMy4yNzEtMy4yNzItMy40MzMgMy40MzNhMi4yODQgMi4yODQgMCAwIDEtMy4yNzcgMCAyLjI4IDIuMjggMCAwIDEgMC0zLjI3NkwxMiAxMnoiLz48L3N2Zz4%3D" alt="LangChain"> <img src="https://img.shields.io/badge/Gemini%20Agents%20Kit-18181b?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjOEU3NUIyIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTEuMDQgMTkuMzJRMTIgMjEuNTEgMTIgMjRxMC0yLjQ5LjkzLTQuNjguOTYtMi4xOSAyLjU4LTMuODF0My44MS0yLjU1UTIxLjUxIDEyIDI0IDEycS0yLjQ5IDAtNC42OC0uOTNhMTIuMyAxMi4zIDAgMCAxLTMuODEtMi41OCAxMi4zIDEyLjMgMCAwIDEtMi41OC0zLjgxUTEyIDIuNDkgMTIgMHEwIDIuNDktLjk2IDQuNjgtLjkzIDIuMTktMi41NSAzLjgxYTEyLjMgMTIuMyAwIDAgMS0zLjgxIDIuNThRMi40OSAxMiAwIDEycTIuNDkgMCA0LjY4Ljk2IDIuMTkuOTMgMy44MSAyLjU1dDIuNTUgMy44MSIvPjwvc3ZnPg%3D%3D" alt="Gemini Agents Kit"> <img src="https://img.shields.io/badge/MCP-18181b?style=flat-square&logo=modelcontextprotocol&logoColor=ffffff" alt="MCP"> <img src="https://img.shields.io/badge/Agent%20orchestration-18181b?style=flat-square" alt="Agent orchestration"> <img src="https://img.shields.io/badge/LLM%20evaluation-18181b?style=flat-square" alt="LLM evaluation"> |
+
+Open to founding and AI engineering roles. [hduggalx@gmail.com](mailto:hduggalx@gmail.com)
