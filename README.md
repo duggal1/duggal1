@@ -1,166 +1,42 @@
-<div align="center">
+Agentic engineer. 21, India.
 
-<img src="https://duggal.darkfunnel.pro/logo.svg" alt="Harshit Duggal" height="72" />
+Building agentic research infrastructure for modern GTM.
 
-# Harshit Duggal
+Self-taught since late 2023. Never had an engineering job. Ship anyway. I run multiple AI coding agents in parallel and own what they can't: architecture, specs, taste, and the call on what ships.
 
-### AI Product Engineer
+> Software is cheap. Judgment is not.
 
-I build production products where the hard parts are not just code:
-product complexity, broken workflows, ugly integrations, and poor design.
+| About Me | [<img src="https://www.google.com/s2/favicons?domain=duggal.darkfunnel.pro&sz=128" width="22" height="22" alt="Website">](https://duggal.darkfunnel.pro) | [<img src="https://cdn.simpleicons.org/x/a1a1aa" width="22" height="22" alt="X">](https://x.com/duggalgg) | [<img src="https://cdn.simpleicons.org/slack/a1a1aa" width="22" height="22" alt="Slack">](https://app.slack.com/client/T0B2G062MLM/D0B23TP85D5) | [<img src="https://cdn.simpleicons.org/gmail/a1a1aa" width="22" height="22" alt="Email">](mailto:hduggalx@gmail.com) | [<img src="https://cdn.simpleicons.org/github/a1a1aa" width="22" height="22" alt="GitHub">](https://github.com/duggal1) |
+|:--|:--:|:--:|:--:|:--:|:--:|
 
-<p>
-  <a href="https://harshit.painite.site" aria-label="Portfolio">
-    <img src="https://duggal.darkfunnel.pro/logo.svg" alt="Portfolio" width="22" height="22" align="center" />
-    <strong>Portfolio</strong>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+## What I'm doing
 
-  <a href="https://x.com/harshitduggal5" aria-label="X/Twitter">
-    <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white" alt="X" height="24" align="center" />
-    <strong>X/Twitter</strong>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+Shipping like a machine. Living in the future.
 
-  <a href="mailto:hduggalx@gmail.com" aria-label="Email">
-    <img src="https://img.shields.io/badge/-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="24" align="center" />
-    <strong>Email</strong>
-  </a>
-</p>
+- Learning and shipping tools that make agentic engineering faster, for my workflow and everyone else's.
+- Building production-ready tools in hours, not weeks.
+- Writing about my AI workflows and the weird things I experiment with at [blog-duggal.darkfunnel.pro](https://blog-duggal.darkfunnel.pro).
 
-</div>
+## Work
 
----
-
-## What SynthicAI taught me
-
-<img src="https://media1.tenor.com/m/mZuCRpWtld4AAAAd/be-doo-be-doo-minion.gif" alt="SynthicAI alert" width="40%" />
-
-In August 2025, I shipped SynthicAI, a voice AI agent for customer support.
-
-It reached 500+ waitlist users through Reddit, X, and LinkedIn
-
-It failed because
-
-- the market was already crowded
-- the problem was too broad
-- I did not talk to enough buyers before building
-- AI infra cost became real before funding did
-
-It changed how I build. I stopped chasing broad markets and started looking for narrow, expensive problems with buyers already paying for broken solutions.
-
----
-
-## Products / Projects
-
-Most of these are closed source. A few are public or partially public.
-
----
-
-### [Dark Funnel ↗](https://darkfunnel.pro)
-
-Demo recovery and pipeline verification for B2B sales teams.
-
-Tracks what happened after a demo was booked: meeting status, owner, CRM value, follow-up, and unresolved pipeline.
-
----
-
-### [Sapphire ↗](https://trysapphire.today)
-
-Revenue intelligence for booking-driven healthcare groups.
-
-Connects patient inquiries, bookings, visits, payments, staff handoffs, and recovery actions into one operating view.
-
----
-
-### [Bixbite ↗](https://bixbite.fun)
-
-AI visibility tracking for payroll software companies.
-
-Shows how ChatGPT, Claude, Gemini, and Perplexity mention, rank, compare, or exclude payroll platforms in buyer searches.
-
----
-
-### [Opal Tool ↗](https://tool.opalhq.fun)
-
-Refund and approval risk tooling for commerce teams.
-
-Helps teams review refund exposure, policy breaks, approval gaps, and money leaving the business.
-
----
-
-### [Synthic AI ↗](https://synthic-ai.vercel.app)
-
-AI voice support agent.
-
-Handles missed calls, customer questions, and support handoffs when slow replies cost the business.
-
----
-
-### [Santa [Open Source] ↗](https://github.com/duggal1/santa)
-
-Christmas AI product.
-
-Tools for gift ideas, cards, room styling, and holiday planning.
-
----
+| Project | What it is | Link |
+|:--|:--|:--|
+| <img src="https://www.google.com/s2/favicons?domain=trysapphire.today&sz=128" width="18" height="18" align="absmiddle"> **Sapphire** | AI-native B2B customer acquisition. Agents research your market, build the ICP, find and enrich buyers, then run outreach and follow-ups. | [trysapphire.today](https://www.trysapphire.today) |
+| <img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="18" height="18" align="absmiddle"> **Aether** | A browser built for AI agents, not a screen-and-mouse wrapper. Each coding agent gets an isolated workspace with its own identity and sessions. In development. | [duggal1/aether](https://github.com/duggal1/aether) |
+| <img src="https://www.google.com/s2/favicons?domain=duggal.darkfunnel.pro&sz=128" width="18" height="18" align="absmiddle"> **Dark Funnel** | Describe who you need once. It researches the people and companies and hands back export-ready prospect data. | [darkfunnel.pro](https://duggal.darkfunnel.pro) |
+| <img src="https://www.google.com/s2/favicons?domain=opalhq.fun&sz=128" width="18" height="18" align="absmiddle"> **Opal** | AI CRM for job hunting. Match your resume to relevant jobs, track every application through offer. | [opalhq.fun](https://www.opalhq.fun) |
+| <img src="https://www.google.com/s2/favicons?domain=superflow.bixbite.fun&sz=128" width="18" height="18" align="absmiddle"> **Superflow** | Free, open-source, local-first voice dictation for developers. Reads your open app and project context and turns speech into precise agent instructions. | [superflow.bixbite.fun](https://superflow.bixbite.fun) |
+| <img src="https://www.google.com/s2/favicons?domain=bixbite.fun&sz=128" width="18" height="18" align="absmiddle"> **Bixbite** | Name a company, see if it's profitable, burning cash, or raising again. Public sources only. | [bixbite.fun](https://www.bixbite.fun) |
+| <img src="https://www.google.com/s2/favicons?domain=npmjs.com&sz=128" width="18" height="18" align="absmiddle"> **ai-budget** | npm SDK for AI abuse and budget prevention. | [@painitehq/ai-budget](https://www.npmjs.com/package/@painitehq/ai-budget) |
 
 ## Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,bun,postgres,prisma,vercel,aws,gcp" alt="Tech stack" />
-</p>
+| stack | |
+|--:|:--|
+| **languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-18181b?style=flat-square&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-18181b?style=flat-square&logo=swift&logoColor=white) |
+| **frontend** | ![React](https://img.shields.io/badge/React-18181b?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-18181b?style=flat-square&logo=nextdotjs&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-18181b?style=flat-square&logo=shadcnui&logoColor=white) ![Motion](https://img.shields.io/badge/Motion-18181b?style=flat-square&logo=framer&logoColor=white) |
+| **backend** | ![Bun](https://img.shields.io/badge/Bun-18181b?style=flat-square&logo=bun&logoColor=white) ![Postgres](https://img.shields.io/badge/Postgres-18181b?style=flat-square&logo=postgresql&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle-18181b?style=flat-square&logo=drizzle&logoColor=white) ![Inngest](https://img.shields.io/badge/Inngest-18181b?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-18181b?style=flat-square&logo=redis&logoColor=white) |
+| **agents / ai** | ![Claude Code](https://img.shields.io/badge/Claude%20Code-18181b?style=flat-square&logo=anthropic&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-18181b?style=flat-square&logo=langchain&logoColor=white) ![OpenRouter](https://img.shields.io/badge/OpenRouter-18181b?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-18181b?style=flat-square) |
+| **infra** | ![AWS](https://img.shields.io/badge/AWS-18181b?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-18181b?style=flat-square&logo=googlecloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-18181b?style=flat-square&logo=cloudflare&logoColor=white) |
 
-**Frontend**  
-Next.js, React, TypeScript, Tailwind CSS, Zustand, TanStack Query, Gsap , motion.dev
-
-**Backend**  
-Bun, Elysia, Next.js Server Actions, Inngest, REST APIs, webhooks
-
-**Data**  
-PostgreSQL, Neon, Drizzle ORM, Prisma, Qdrant
-
-**AI**  
-LLMs, RAG, prompt systems, agents, vector search, evals
-
-**Integrations**  
-Stripe, Paddle, HubSpot, Salesforce, Shopify, Zendesk, Slack, Google Workspace
-
----
-
-## AI systems I build
-* AI agent workflows that use tools, retry failures, preserve state, and escalate uncertainty
-* Extraction systems for messy CRM, support, operations, and revenue data
-* Hybrid deterministic + LLM pipelines where facts stay source-grounded
-* Human review gates when automation confidence is not enough
-* Failure-driven evals based on production mistakes, not benchmark theater
-
-----
-
-
-## Contact
-
-For work only, please.
-
-[hduggal@darkfunnel.pro](mailto:hduggal@darkfunnel.pro)
-
-Secondary: [duggal@trysapphire.today](mailto:duggal@trysapphire.today)
-
----
-
-<div align="center">
-
-<p>
-  <a href="https://duggal.darkfunnel.pro" aria-label="Portfolio">
-    <img src="https://duggal.darkfunnel.pro/logo.svg" alt="Portfolio" width="22" height="22" align="center" />
-    <strong>Portfolio</strong>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://x.com/harshitduggal5" aria-label="X/Twitter">
-    <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white" alt="X" height="24" align="center" />
-    <strong>X/Twitter</strong>
-  </a>
-</p>
-
-</div>
+Open to founding and AI engineering roles. hduggalx@gmail.com
