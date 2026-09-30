@@ -1,6 +1,6 @@
 # Hey, I'm Duggal 👋
 
-- Agentic engineer | Rationalist | I ship products/tools fast, every day.
+Agentic engineer | Rationalist | I ship products/tools fast, every day.
 
 <table>
 <tr>
