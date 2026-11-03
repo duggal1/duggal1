@@ -10,18 +10,6 @@ Agentic engineer | Rationalist | I ship products/tools fast, every day.
 </tr>
 </table>
 
-## Work
-
-| Project | What it is |
-|:--|:--|
-| [**Sapphire**](https://www.trysapphire.today) | AI-native B2B customer acquisition. Agents research your market, find buyers, run outreach. |
-| [**Aether**](https://github.com/duggal1/aether) | A browser built for AI agents. One isolated workspace per coding agent. In development. |
-| [**Dark Funnel**](https://duggal.darkfunnel.pro) | Describe who you need once. Get export-ready prospect data. |
-| [**Opal**](https://www.opalhq.fun) | AI CRM for job hunting. Match your resume to jobs, track every application. |
-| [**Superflow**](https://superflow.bixbite.fun) | Free, open-source voice dictation for developers. |
-| [**Bixbite**](https://www.bixbite.fun) | Name a company. See if it's profitable, burning cash, or raising. |
-| [**ai-budget**](https://www.npmjs.com/package/@painitehq/ai-budget) | npm SDK for AI abuse and budget prevention. |
-
 ## What I'm doing
 
 Shipping like a machine. Living in the future.
