@@ -16,6 +16,6 @@ Shipping like a machine. Living in the future.
 
 - Learning and shipping tools that make agentic engineering faster, for my workflow and everyone else's.
 - Building production-ready tools in hours, not weeks.
-- Writing about my AI workflows and the weird things I experiment with at [blog-duggal.darkfunnel.pro](https://blog-duggal.darkfunnel.pro/).
+- Writing about my AI workflows and the weird things I experiment with at [blog/agentic-backend-pipeline]([https://blog-duggal.darkfunnel.pro/](https://duggal.darkfunnel.pro/blog/agentic-backend-pipeline)).
 
 Open to founding and AI engineering roles. [hduggalx@gmail.com](mailto:hduggalx@gmail.com)
