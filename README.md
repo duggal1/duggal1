@@ -1,11 +1,7 @@
 # Hey, I'm Duggal 👋
 
-**Agentic Engineer** | Solving some of software engineering's hardest and most ambiguous problems.
+Agentic Engineer | Solving some of the most ambiguous problems in software.
 
-Three things I can't stand:
-- Ugly, soulless AI-slop interfaces with zero design taste.
-- Broken, unreliable software that fails at the basics.
-- Software that should be open source but is locked behind a paywall $$.
 
 <table>
 <tr>
