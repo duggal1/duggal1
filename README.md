@@ -1,6 +1,6 @@
 # Hey, I'm Duggal 👋
 
-## Agentic Engineer | Solving some of the most ambiguous problems in software.
+**Agentic Engineer | Solving some of the most ambiguous problems in software.**
 
 
 <table>
