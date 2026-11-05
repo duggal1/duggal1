@@ -1,6 +1,12 @@
 # Hey, I'm Duggal 👋
 
-Agentic engineer | Rationalist | I ship products/tools fast, every day.
+**Agentic Engineer** | Solving some of software engineering's hardest and most ambiguous problems.
+
+Three things I can't stand:
+- Ugly, soulless AI-slop interfaces with zero design taste.
+- Broken, unreliable software that fails at the basics.
+- Software that should be open source but is locked behind a paywall $$.
+
 <table>
 <tr>
 <td align="center" valign="middle"><a href="https://duggal.darkfunnel.pro" style="cursor:pointer;"><img height="22" src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzNjUgMTc2Ij48ZyBmaWxsPSIjZmZmZmZmIj48cGF0aCBkPSJNMCwwIEwzOC40MzIsMCBMMzguNDMyLDE3NS43ODAwNzQgTDAsMTc1Ljc4MDA3NCBaIi8%2BPHBhdGggZD0iTTIxNy41NjgsMCBMMjU2LDAgTDI1NiwxNzUuNzgwMDc0IEwyMTcuNTY4LDE3NS43ODAwNzQgWiIvPjxwYXRoIGQ9Ik0zOC40MzIsNjguODkwMDM3IEwyMTcuNTY4LDY4Ljg5MDAzNyBMMjE3LjU2OCwxMDcuMzIyMTExIEwzOC40MzIsMTA3LjMyMjExMSBaIi8%2BPHBhdGggZD0iTTI1NiwwIEwyOTQuNDMxNzQzLDAgTDM2NC41MTMxMjIsMTc1Ljc4MDA3NCBMMzI2LjA4MTM3MywxNzUuNzgwMDc0IFoiLz48L2c%2BPC9zdmc%2B&logoSize=auto" alt="Portfolio" align="absmiddle"> <b>Portfolio</b></a></td>
