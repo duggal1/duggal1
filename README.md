@@ -12,13 +12,11 @@
 </tr>
 </table>
 
-## What I'm doing
+# Shipping at the speed of light
 
-Shipping at the speed of light: 299,792,458 m/s.
-
-- Learning and shipping tools that make agentic engineering faster, for my workflow and everyone else's.
-- Building production-ready tools in hours, not weeks.
-- Writing about my AI workflows and the weird things I experiment with at [agentic-backend-pipeline](https://duggal.darkfunnel.pro/blog/agentic-backend-pipeline).
+- Learning and shipping tools that make agentic engineering faster, both for my workflow and everyone else's.
+- Building tools in hours, not weeks, to solve the annoying pain points I encounter.
+- Writing about my AI workflows and agentic engineering stack, including my [Agentic Backend Pipeline](https://duggal.darkfunnel.pro/blog/agentic-backend-pipeline).
 
 
 Open to founding and AI engineering roles. [hduggalx@gmail.com](mailto:hduggalx@gmail.com)
