@@ -14,7 +14,7 @@
 
 ## What I'm doing
 
-Shipping like a machine. Living in the future.
+Shipping at the speed of light: 299,792,458 m/s.
 
 - Learning and shipping tools that make agentic engineering faster, for my workflow and everyone else's.
 - Building production-ready tools in hours, not weeks.
