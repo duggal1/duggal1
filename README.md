@@ -12,7 +12,9 @@
 </tr>
 </table>
 
-Shipping at the speed of light.
+# What Im doing
+
+**Shipping at the speed of light.**
 
 - Learning and shipping tools that make agentic engineering faster, for my workflow and everyone else's.
 - Building tools in hours, not weeks, to solve my specific pain points.
